@@ -13,6 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-node@v4
         with:
@@ -24,11 +26,19 @@ jobs:
 
       - name: Commit and push if the calendar changed
         run: |
+          set -e
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/fyrisbiografen.ics
           if ! git diff --staged --quiet; then
+            echo "Changes detected, committing..."
             git commit -m "Update calendar $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            git pull --no-edit origin main
+            echo "Fetching latest from remote..."
+            git fetch origin main
+            echo "Rebasing on origin/main..."
+            git rebase -Xtheirs origin/main
+            echo "Pushing to origin/main..."
             git push origin main
+          else
+            echo "No changes to commit"
           fi
