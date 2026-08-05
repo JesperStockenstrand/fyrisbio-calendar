@@ -123,7 +123,9 @@ function logDiagnostics(html, flatText) {
   for (const marker of markers) {
     console.log(`  contains "${marker}": ${flatText.includes(marker)}`);
   }
-  console.log(`First 1000 chars of flattened text:\n${flatText.slice(0, 1000)}`);
+  console.log(`First 2000 chars of flattened text:\n${flatText.slice(0, 2000)}`);
+  console.log(`---`);
+  console.log(`Last 1000 chars of flattened text:\n${flatText.slice(-1000)}`);
   console.log(`--- end diagnostics ---`);
 }
 
