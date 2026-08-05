@@ -1,0 +1,15 @@
+{
+  "name": "fyrisbio-calendar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Scrapes Fyrisbiografen's kalendarium and publishes a subscribable ICS calendar feed",
+  "main": "scrape.js",
+  "scripts": {
+    "scrape": "node scrape.js",
+    "test": "node test/run.js && node test/run-film-details.js && node test/run-e2e.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "ics": "^3.12.0"
+  }
+}
