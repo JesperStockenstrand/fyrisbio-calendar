@@ -63,7 +63,15 @@ In most calendar apps, use "Add calendar → From URL" / "Subscribe":
   significantly, the Action may start failing (it intentionally throws rather
   than publishing an empty calendar) — check the Actions tab logs.
   `parseSchedule()` and `extractFilmDetails()` in `scrape.js` are the places
-  to adjust.
+  to adjust. If it fails, `scrape.js` prints diagnostics (raw HTML length,
+  whether key markers like "Kalendarium" or "Salong" are present, and a
+  snippet of the flattened text) directly to the Action's log — check there
+  first before changing any code.
+- **Character encoding**: the page's actual byte encoding might not be
+  UTF-8 (some Swedish sites serve ISO-8859-1/Windows-1252), which would
+  silently corrupt å/ä/ö and break every date match. `fetchHtml()` detects
+  the real charset from the response headers or a `<meta charset>` tag and
+  decodes accordingly, rather than assuming UTF-8.
 - **If a film's runtime can't be found**, its event falls back to a 2-hour
   placeholder duration (`DEFAULT_DURATION_HOURS`).
 - **If a film page fails to fetch or parse**, that event just keeps its

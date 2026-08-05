@@ -6,7 +6,7 @@
   "main": "scrape.js",
   "scripts": {
     "scrape": "node scrape.js",
-    "test": "node test/run.js && node test/run-film-details.js && node test/run-e2e.js"
+    "test": "node test/run.js && node test/run-encoding.js && node test/run-film-details.js && node test/run-e2e.js"
   },
   "dependencies": {
     "cheerio": "^1.2.0",

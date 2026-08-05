@@ -73,6 +73,13 @@ function stockholmLocalToUtcParts(y, m, d, h, mi) {
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
+// Decode the response using whatever charset it actually declares (or falls
+// back to sniffing a <meta charset> / <meta http-equiv content-type> tag in
+// the bytes). Swedish sites sometimes serve ISO-8859-1 or Windows-1252 even
+// when nothing about the request suggests it — if we blindly assumed UTF-8,
+// every å/ä/ö in weekday names ("mån", "lör", "sön") would come out mangled
+// and silently break every date-matching regex, which looks exactly like
+// "parsed zero events" with no other symptom.
 async function fetchHtml(url) {
   const res = await fetch(url, {
     headers: { 'User-Agent': 'Mozilla/5.0 (compatible; FyrisCalendarBot/1.0; +personal-use)' },
@@ -80,7 +87,44 @@ async function fetchHtml(url) {
   if (!res.ok) {
     throw new Error(`Fetch failed for ${url}: ${res.status} ${res.statusText}`);
   }
-  return res.text();
+
+  const buffer = Buffer.from(await res.arrayBuffer());
+
+  let charset = null;
+  const headerMatch = (res.headers.get('content-type') || '').match(/charset=([\w-]+)/i);
+  if (headerMatch) charset = headerMatch[1].toLowerCase();
+
+  if (!charset) {
+    // Only need to look at the first few hundred bytes as plain ASCII to find a meta tag.
+    const head = buffer.slice(0, 2048).toString('latin1');
+    const metaMatch = head.match(/<meta[^>]+charset=["']?([\w-]+)/i);
+    if (metaMatch) charset = metaMatch[1].toLowerCase();
+  }
+
+  charset = charset || 'utf-8';
+  // Node's TextDecoder doesn't recognize "iso-8859-1" as an alias in all builds; normalize the common ones.
+  const normalized = charset === 'iso-8859-1' || charset === 'latin1' ? 'windows-1252' : charset;
+
+  try {
+    return new TextDecoder(normalized).decode(buffer);
+  } catch (err) {
+    console.warn(`Unrecognized charset "${charset}", falling back to utf-8: ${err.message}`);
+    return new TextDecoder('utf-8').decode(buffer);
+  }
+}
+
+// Prints a few cheap, high-signal checks so a "parsed zero events" failure
+// is diagnosable from the Action log alone, without needing to reproduce it.
+function logDiagnostics(html, flatText) {
+  console.log(`--- diagnostics ---`);
+  console.log(`Raw HTML length: ${html.length} chars`);
+  console.log(`Flattened text length: ${flatText.length} chars`);
+  const markers = ['Kalendarium', 'Salong', 'i dag', 'i morgon', 'fre', 'lör', 'sön', 'aug'];
+  for (const marker of markers) {
+    console.log(`  contains "${marker}": ${flatText.includes(marker)}`);
+  }
+  console.log(`First 1000 chars of flattened text:\n${flatText.slice(0, 1000)}`);
+  console.log(`--- end diagnostics ---`);
 }
 
 // --- 2. Flatten DOM into an ordered text stream, keeping link hrefs -----
@@ -324,6 +368,7 @@ async function main() {
   const events = parseSchedule(flatText, today);
 
   if (events.length === 0) {
+    logDiagnostics(html, flatText);
     throw new Error('Parsed zero events — the page layout may have changed. Not overwriting the existing feed.');
   }
 
@@ -353,4 +398,5 @@ if (require.main === module) {
 
 module.exports = {
   flatten, resolveDate, parseSchedule, extractFilmDetails, applyFilmDetails, cleanParagraph, stripLinkMarkers,
+  fetchHtml,
 };
