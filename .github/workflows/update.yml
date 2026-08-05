@@ -13,8 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - uses: actions/setup-node@v4
         with:
@@ -24,14 +22,43 @@ jobs:
 
       - run: node scrape.js
 
-      - name: Commit and push if the calendar changed
+      - name: Commit and push if the calendar changed via GitHub API
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/fyrisbiografen.ics
-          if ! git diff --staged --quiet; then
-            git commit -m "Update calendar $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            git fetch origin main:main
-            git merge main --no-edit
-            git push origin main
+          # Check if the calendar file exists and is different
+          NEW_CONTENT=$(cat docs/fyrisbiografen.ics)
+
+          # Get the current file from the repo
+          CURRENT=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/repos/${{ github.repository }}/contents/docs/fyrisbiografen.ics?ref=main" \
+            | jq -r '.content' | base64 -d 2>/dev/null || echo "")
+
+          # Compare and commit if different
+          if [ "$NEW_CONTENT" != "$CURRENT" ]; then
+            echo "Calendar changed, committing via API..."
+
+            # Get the current commit SHA
+            SHA=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+              "https://api.github.com/repos/${{ github.repository }}/contents/docs/fyrisbiografen.ics?ref=main" \
+              | jq -r '.sha' 2>/dev/null || echo "")
+
+            # Encode the new content to base64
+            ENCODED=$(echo "$NEW_CONTENT" | base64)
+
+            # Prepare the JSON payload
+            PAYLOAD=$(jq -n \
+              --arg message "Update calendar $(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+              --arg content "$ENCODED" \
+              --arg sha "$SHA" \
+              '{message: $message, content: $content, sha: $sha, branch: "main"}')
+
+            # Commit the file
+            curl -X PUT \
+              -H "Authorization: token $GITHUB_TOKEN" \
+              -H "Accept: application/vnd.github.v3+json" \
+              -d "$PAYLOAD" \
+              "https://api.github.com/repos/${{ github.repository }}/contents/docs/fyrisbiografen.ics"
+          else
+            echo "Calendar unchanged, skipping commit"
           fi
