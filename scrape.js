@@ -19,6 +19,9 @@ const PAGE_URL = 'https://fyrisbiografen.se/index.php?p=kalendarium';
 const OUTPUT_PATH = path.join(__dirname, 'docs', 'fyrisbiografen.ics');
 const DEFAULT_DURATION_HOURS = 2; // fallback if a film's runtime can't be found
 const FILM_FETCH_DELAY_MS = 400; // be polite to a small site — fetch film pages one at a time
+const FETCH_TIMEOUT_MS = 20000; // per-attempt cap; the site can be slow, and undici's default connect timeout (10s) alone was tripping in CI
+const FETCH_RETRIES = 3; // total attempts per URL — transient connect timeouts from GitHub runners shouldn't fail the whole job
+const FETCH_RETRY_BASE_MS = 2000; // backoff between attempts (multiplied by attempt number)
 
 // Known field labels from this Kinoplex-template metadata table (Land,
 // Produktionsår, Premiär, Längd, Genre, Åldersgräns, Distributör, Språk,
@@ -80,13 +83,37 @@ const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 // every å/ä/ö in weekday names ("mån", "lör", "sön") would come out mangled
 // and silently break every date-matching regex, which looks exactly like
 // "parsed zero events" with no other symptom.
-async function fetchHtml(url) {
-  const res = await fetch(url, {
-    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; FyrisCalendarBot/1.0; +personal-use)' },
-  });
-  if (!res.ok) {
-    throw new Error(`Fetch failed for ${url}: ${res.status} ${res.statusText}`);
+// Fetch with a per-attempt timeout and retry-with-backoff. A single transient
+// connect timeout from a GitHub runner to a small self-hosted site was enough
+// to fail the whole job (UND_ERR_CONNECT_TIMEOUT), so retry a few times before
+// giving up. Non-ok HTTP responses are treated as retryable too (a 502/503
+// during a site restart is exactly the kind of blip a retry fixes).
+async function fetchWithRetry(url) {
+  let lastErr;
+  for (let attempt = 1; attempt <= FETCH_RETRIES; attempt++) {
+    try {
+      const res = await fetch(url, {
+        headers: { 'User-Agent': 'Mozilla/5.0 (compatible; FyrisCalendarBot/1.0; +personal-use)' },
+        signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
+      });
+      if (!res.ok) {
+        throw new Error(`Fetch failed for ${url}: ${res.status} ${res.statusText}`);
+      }
+      return res;
+    } catch (err) {
+      lastErr = err;
+      if (attempt < FETCH_RETRIES) {
+        const delay = FETCH_RETRY_BASE_MS * attempt;
+        console.warn(`Fetch attempt ${attempt}/${FETCH_RETRIES} for ${url} failed (${err.message}); retrying in ${delay}ms`);
+        await sleep(delay);
+      }
+    }
   }
+  throw lastErr;
+}
+
+async function fetchHtml(url) {
+  const res = await fetchWithRetry(url);
 
   const buffer = Buffer.from(await res.arrayBuffer());
 
