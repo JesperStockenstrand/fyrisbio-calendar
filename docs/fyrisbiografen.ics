@@ -6,110 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Fyrisbiografen
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:9b297c117075d5dc491eaf46687d4226@fyrisbio-calendar
-SUMMARY:Carola!
-DTSTAMP:20260914T210551Z
-DTSTART:20260914T153000Z
-DESCRIPTION:Sista visningen\n\nGenombrottet - Konflikterna - Revanschen Med
-	 tillgång till ett unikt material ger filmen CAROLA! en inblick i människa
-	n Carola Häggkvists liv. Hon är artisten som älskats av publiken i decenni
-	er och som fascinerade Ingmar Bergman i så hög grad att han såg hennes brö
-	llop på "repeat". Och hon är personen som sedan 16 års ålder blivit styrd 
-	av andra\, men som vid 60 tagit kontroll över sitt eget liv. Hon är Carola
-	 och hon slutar aldrig att fascinera. Land Produktionsår Premiär Längd Gen
-	re Distributör Producent Språk Textning Sverige 2026 21 aug 2026 85 min Do
-	kumentär TriArt Johan Palmgren Svenska Svenska
-URL:https://fyrisbiografen.se/carola
-LOCATION:Fyrisbiografen\, Salong 1
-DURATION:PT85M
-END:VEVENT
-BEGIN:VEVENT
-UID:6646d3720ab8283266741fb2a1f3942e@fyrisbio-calendar
-SUMMARY:För döva öron
-DTSTAMP:20260914T210551Z
-DTSTART:20260914T154500Z
-DESCRIPTION:Kort tid kvar\n\nInspirerad av relationen till sin egen syster 
-	ger Eva Libertad i sin långfilmsdebut ett personligt\, levande och djupt b
-	erörande porträtt av den komplexa och sällan skildrade relationen mellan d
-	en döva och den hörande världen. Ángela\, en döv kvinna\, och hennes höran
-	de partner\, Héctor\, väntar sitt första barn. De är förälskade och fyllda
-	 av förväntan inför livet som föräldrar. Men graviditeten väcker också Áng
-	elas oro över moderskapet och hur hon ska kunna kommunicera med sitt barn.
-	 När dottern föds måste de vänta flera månader innan de får veta om hon ka
-	n höra eller inte. Ángela slits mellan osäkerhet och motstridiga känslor k
-	ring vad hon egentligen hoppas på\, medan Héctor är övertygad om att barne
-	t kommer att kunna höra. Sakta börjar en spricka växa mellan dem. Regissör
-	en Eva Libertad har byggt vidare på sin Goya-nominerade kortfilm med samma
-	 namn och skildrar\, tillsammans med den fantastiska skådespelaren Miriam 
-	Garlo - hennes syster även i verkligheten - med enkelhet och stark närvaro
-	 vardagen för en förstagångsmamma som uppfostrar sin dotter i en värld prä
-	glad av ljud.\n\nMedverkande: Miriam Garlo\, Álvaro Cervantes\, Elena Irur
-	eta\, Joaquín Notario\, Daniela Saura Pérez\, och Elaia Sánchez. Originalt
-	itel Land Produktionsår Premiär Längd Genre Distributör Producent Språk Te
-	xtning Sorda Spanien 2025 4 sept 2026 99 min Drama TriArt Adolfo Blanco Sp
-	anska Svenska
-URL:https://fyrisbiografen.se/for-dova-oron
-LOCATION:Fyrisbiografen\, Salong 1
-DURATION:PT99M
-END:VEVENT
-BEGIN:VEVENT
-UID:5996c0432fe0a1849fdccac863c38c4e@fyrisbio-calendar
-SUMMARY:La Grazia
-DTSTAMP:20260914T210551Z
-DTSTART:20260914T174000Z
-DESCRIPTION:Annamaria Morelli...🔍 Italienska Svenska En president. En benåd
-	ning. Ett sista beslut. En italiensk president\, nyligen änkling\, ställs 
-	inför avgörande moraliska dilemman kring dödshjälp och benådning av dömda 
-	mördare. Samtidigt skakas hans privatliv av avslöjanden om hans avlidna hu
-	strus otrohet - något som kastar nytt ljus över deras liv tillsammans unde
-	r hans sista tid vid makten. Toni Servillo briljerar i en minnesvärd\, tra
-	gikomisk roll som Italiens president i Paolo Sorrentinos publikfriande öpp
-	ningsfilm i Venedig\, La Grazia - en ofta rolig\, stundtals gripande berät
-	telse om makt\, ensamhet och tvivel\, och om en man som kämpar för att fat
-	ta rätt beslut när det verkligen gäller. Visning med filosofisk introdukti
-	on onsdag 16 september 17:30! Visningen av La Grazia inleds kl 17:30 med c
-	a 15 minuters introduktion av Dr. Nils-Hennes Stear\, biträdande universit
-	etslektor vid Filosofiska institutionen vid Uppsala universitet\, som ger 
-	perspektiv på filmens frågor. Hur bestämmer vi vad vi ska göra när argumen
-	ten väger lika tungt på båda sidor? När att inte fatta något beslut i sig 
-	innebär att vi tar ställning för ett av alternativen? Vad gör vi när skäl 
-	och principer tar slut men vi ändå måste agera? Kort sagt\, hur lever vi m
-	ed osäkerheten?\n\nMedverkande: Toni Servillo\, Anna Ferzetti\, Orlando Ci
-	nque\, Massimo Venturiello\, Milvia Marigliano\, Giuseppe Gaiani\, Linda M
-	esserklinger\, och Vasco Mirandola. Land Produktionsår Premiär Längd Genre
-	 Distributör Producent Språk Textning Italien 2025 11 sept 2026 133 min Dr
-	ama TriArt Annamaria Morelli...🔍 Italienska Svenska
-URL:https://fyrisbiografen.se/la-grazia
-LOCATION:Fyrisbiografen\, Salong 2
-DURATION:PT133M
-END:VEVENT
-BEGIN:VEVENT
-UID:45cce498736ff32724518a7383b3561e@fyrisbio-calendar
-SUMMARY:Orphan
-DTSTAMP:20260914T210551Z
-DTSTART:20260914T175000Z
-DESCRIPTION:Ungern\, Storbritannien\, Frankrike\, Tyskland\, USAUngern...🔍 
-	2025 4 sept 2026 132 min Drama Lucky Dogs Ungerska Svenska I det turbulent
-	a 50-talets Budapest har det folkliga upproret precis slagits ned av säker
-	hetspolisen och sovjetarmén. Unge Andors far har fortfarande inte återvänt
-	 efter kriget\, och pojkens envisa sökande efter både fadern och sin egen 
-	identitet vävs samman med ett komplext porträtt av en sargad judisk gemens
-	kap. Orphan är ett lika fascinerande som drabbande drama\, gestaltat med s
-	tor berättarglädje\, detaljrikedom och fullkomlig teknisk briljans. ​ Osca
-	rbelönade László Nemes (Sauls Son) är tillbaka med ett gripande och visuel
-	lt vidunderligt efterkrigsdrama om överlevnad mot alla odds.\n\nMedverkand
-	e: Bojtorján Barabas\, Andrea Waskovics\, och Grégory Gadeboi. Originaltit
-	el Land Produktionsår Premiär Längd Genre Distributör Språk Textning Árva 
-	Ungern\, Storbritannien\, Frankrike\, Tyskland\, USAUngern...🔍 2025 4 sept
-	 2026 132 min Drama Lucky Dogs Ungerska Svenska
-URL:https://fyrisbiografen.se/orphan
-LOCATION:Fyrisbiografen\, Salong 2
-DURATION:PT132M
-END:VEVENT
-BEGIN:VEVENT
 UID:f8dd92874daf7c2be8c104e1f6ee300c@fyrisbio-calendar
 SUMMARY:La Grazia
-DTSTAMP:20260914T210551Z
+DTSTAMP:20260915T020335Z
 DTSTART:20260915T125000Z
 DESCRIPTION:Annamaria Morelli...🔍 Italienska Svenska En president. En benåd
 	ning. Ett sista beslut. En italiensk president\, nyligen änkling\, ställs 
@@ -140,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1df5737b143c8b4c63e78de5f6364231@fyrisbio-calendar
 SUMMARY:Karla
-DTSTAMP:20260914T210551Z
+DTSTAMP:20260915T020335Z
 DTSTART:20260915T130000Z
 DESCRIPTION:Sista visningen\n\nKarla är den sanna och gripande historien om
 	 det första kända fallet i Tyskland där ett barn drar en förälder inför rä
@@ -168,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:556c39bd2d5b471cbc18859a9d526742@fyrisbio-calendar
 SUMMARY:Det finaste av Finland
-DTSTAMP:20260914T210551Z
+DTSTAMP:20260915T020335Z
 DTSTART:20260915T152000Z
 DESCRIPTION:Kort tid kvar\n\nJuha Löppönen...🔍 Finska Svenska När Tero blev
 	 ensamstående pappa för femton år sedan hade han ingen aning om hur man ta
@@ -196,7 +95,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8edd9382fb90af6822eb1b596199d85a@fyrisbio-calendar
 SUMMARY:Primavera
-DTSTAMP:20260914T210551Z
+DTSTAMP:20260915T020335Z
 DTSTART:20260915T153000Z
 DESCRIPTION:I 1700-talets Venedig växer Cecilia upp som en begåvad violinis
 	t på ett barnhem för flickor. När den karismatiske Antonio Vivaldi anlände
@@ -222,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8f58796d344e5aceee24601a5b593c17@fyrisbio-calendar
 SUMMARY:De Gaulle: Motståndets pris
-DTSTAMP:20260914T210551Z
+DTSTAMP:20260915T020335Z
 DTSTART:20260915T172000Z
 DESCRIPTION:La bataille de Gaulle: L'âge de ferLa bataille de...🔍 Frankrike
 	 2026 14 aug 2026 160 min Drama Franska Svenska De Gaulle: Motståndets pri
@@ -256,7 +155,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:45722fd3a5f8cc5dd497e2d08ae542ff@fyrisbio-calendar
 SUMMARY:Främlingen
-DTSTAMP:20260914T210551Z
+DTSTAMP:20260915T020335Z
 DTSTART:20260915T175000Z
 DESCRIPTION:François Ozon...🔍 Franska Svenska Den anspråkslöse Mersault när
 	varar vid sin mors begravning utan att fälla en tår. Dagen därpå inleder h
@@ -277,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ec4706c98567777a90bbc573ddae372b@fyrisbio-calendar
 SUMMARY:Skogens viskningar
-DTSTAMP:20260914T210551Z
+DTSTAMP:20260915T020335Z
 DTSTART:20260916T110000Z
 DESCRIPTION:Tre generationers passion för naturen - en förtrollande film om
 	 vildmarkens djurliv. Premiär på Kulturnatten 12 september! Efter den fant
@@ -299,7 +198,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:39bcba170e68dded5da8ac9c2ba02dad@fyrisbio-calendar
 SUMMARY:För döva öron
-DTSTAMP:20260914T210551Z
+DTSTAMP:20260915T020335Z
 DTSTART:20260916T111000Z
 DESCRIPTION:Kort tid kvar\n\nInspirerad av relationen till sin egen syster 
 	ger Eva Libertad i sin långfilmsdebut ett personligt\, levande och djupt b
@@ -328,7 +227,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2f60e30e3439ba801ca4fa71a09cee56@fyrisbio-calendar
 SUMMARY:Primavera
-DTSTAMP:20260914T210551Z
+DTSTAMP:20260915T020335Z
 DTSTART:20260916T130000Z
 DESCRIPTION:I 1700-talets Venedig växer Cecilia upp som en begåvad violinis
 	t på ett barnhem för flickor. När den karismatiske Antonio Vivaldi anlände
@@ -354,7 +253,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8b2c0ab129c5b9697353df13976a333d@fyrisbio-calendar
 SUMMARY:Orphan
-DTSTAMP:20260914T210551Z
+DTSTAMP:20260915T020335Z
 DTSTART:20260916T131500Z
 DESCRIPTION:Ungern\, Storbritannien\, Frankrike\, Tyskland\, USAUngern...🔍 
 	2025 4 sept 2026 132 min Drama Lucky Dogs Ungerska Svenska I det turbulent
@@ -377,7 +276,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3a798ef607486dcafd1aa3e8f1a994af@fyrisbio-calendar
 SUMMARY:La Grazia
-DTSTAMP:20260914T210551Z
+DTSTAMP:20260915T020335Z
 DTSTART:20260916T153000Z
 DESCRIPTION:Visning med filosofisk introduktion\n\nAnnamaria Morelli...🔍 It
 	alienska Svenska En president. En benådning. Ett sista beslut. En italiens
@@ -409,7 +308,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6714e2d79e73e19d85c681bec1aff833@fyrisbio-calendar
 SUMMARY:De levande döda i Rojava
-DTSTAMP:20260914T210551Z
+DTSTAMP:20260915T020335Z
 DTSTART:20260916T155000Z
 DESCRIPTION:Kort tid kvar\n\nThe Phantom pain of RojavaThe Phantom pain of.
 	..🔍 Sverige 2026 4 sept 2026 81 min Dokumentär Folkets Bio Kurdiska Svensk
@@ -431,7 +330,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c53948473700754806831c96a26e15e8@fyrisbio-calendar
 SUMMARY:The Odyssey
-DTSTAMP:20260914T210551Z
+DTSTAMP:20260915T020335Z
 DTSTART:20260916T174000Z
 DESCRIPTION:Kort tid kvar\n\nEfter det trojanska kriget ställs Odysseus inf
 	ör en farofylld resa tillbaka till Ithaka\, där han möter cyklopen Polyfem
@@ -448,7 +347,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9ba58dcaa3c04d7663656d51c0a57f5e@fyrisbio-calendar
 SUMMARY:The Invite
-DTSTAMP:20260914T210551Z
+DTSTAMP:20260915T020335Z
 DTSTART:20260916T183000Z
 DESCRIPTION:Sista visningen\n\nJoe och Angelas äktenskap hänger på en skör 
 	tråd. När de bjuder sina grannar på middag tar kvällen en oväntad vändning
@@ -466,7 +365,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b0afae78fb0fa4c5387c706e5f42af94@fyrisbio-calendar
 SUMMARY:Primavera
-DTSTAMP:20260914T210551Z
+DTSTAMP:20260915T020335Z
 DTSTART:20260917T105000Z
 DESCRIPTION:I 1700-talets Venedig växer Cecilia upp som en begåvad violinis
 	t på ett barnhem för flickor. När den karismatiske Antonio Vivaldi anlände
@@ -492,7 +391,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:444592925404400896ed5ac197634617@fyrisbio-calendar
 SUMMARY:De levande döda i Rojava
-DTSTAMP:20260914T210551Z
+DTSTAMP:20260915T020335Z
 DTSTART:20260917T110000Z
 DESCRIPTION:Kort tid kvar\n\nThe Phantom pain of RojavaThe Phantom pain of.
 	..🔍 Sverige 2026 4 sept 2026 81 min Dokumentär Folkets Bio Kurdiska Svensk
@@ -514,7 +413,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9cc393cd181a9098efb26b3c5a5165b2@fyrisbio-calendar
 SUMMARY:Siri Hustvedt - Dance Around the Self
-DTSTAMP:20260914T210551Z
+DTSTAMP:20260915T020335Z
 DTSTART:20260917T130000Z
 DESCRIPTION:Sista visningen\n\nSiri Hustvedt lämnar uppväxten i Minnesota f
 	ör ett nytt liv i New York\, där jakten på huvudpersonen till hennes debut
@@ -533,7 +432,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d40ad6545a5521a3fdaa41ecc8f19dd3@fyrisbio-calendar
 SUMMARY:Främlingen
-DTSTAMP:20260914T210551Z
+DTSTAMP:20260915T020335Z
 DTSTART:20260917T131000Z
 DESCRIPTION:François Ozon...🔍 Franska Svenska Den anspråkslöse Mersault när
 	varar vid sin mors begravning utan att fälla en tår. Dagen därpå inleder h
@@ -554,7 +453,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f632f1d4a6b0095bb9b4863ce9f774dd@fyrisbio-calendar
 SUMMARY:Orphan
-DTSTAMP:20260914T210551Z
+DTSTAMP:20260915T020335Z
 DTSTART:20260917T152000Z
 DESCRIPTION:Ungern\, Storbritannien\, Frankrike\, Tyskland\, USAUngern...🔍 
 	2025 4 sept 2026 132 min Drama Lucky Dogs Ungerska Svenska I det turbulent
@@ -577,7 +476,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:93a2af505063fe3be229886838e053cc@fyrisbio-calendar
 SUMMARY:Skogens viskningar
-DTSTAMP:20260914T210551Z
+DTSTAMP:20260915T020335Z
 DTSTART:20260917T154000Z
 DESCRIPTION:Tre generationers passion för naturen - en förtrollande film om
 	 vildmarkens djurliv. Premiär på Kulturnatten 12 september! Efter den fant
@@ -599,7 +498,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:481053aec9dd7b1ba8ffa9725631711f@fyrisbio-calendar
 SUMMARY:De Gaulle: Motståndets pris
-DTSTAMP:20260914T210551Z
+DTSTAMP:20260915T020335Z
 DTSTART:20260917T174500Z
 DESCRIPTION:La bataille de Gaulle: L'âge de ferLa bataille de...🔍 Frankrike
 	 2026 14 aug 2026 160 min Drama Franska Svenska De Gaulle: Motståndets pri
@@ -633,7 +532,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ec7a27bc70cf5f6d63f596e3557b67e8@fyrisbio-calendar
 SUMMARY:För döva öron
-DTSTAMP:20260914T210551Z
+DTSTAMP:20260915T020335Z
 DTSTART:20260917T181000Z
 DESCRIPTION:Kort tid kvar\n\nInspirerad av relationen till sin egen syster 
 	ger Eva Libertad i sin långfilmsdebut ett personligt\, levande och djupt b
@@ -658,5 +557,345 @@ DESCRIPTION:Kort tid kvar\n\nInspirerad av relationen till sin egen syster
 URL:https://fyrisbiografen.se/for-dova-oron
 LOCATION:Fyrisbiografen\, Salong 2
 DURATION:PT99M
+END:VEVENT
+BEGIN:VEVENT
+UID:6313de9f26f29151bd8d155dca234b55@fyrisbio-calendar
+SUMMARY:En gång skall du vara en av dem som levat för längesen
+DTSTAMP:20260915T020335Z
+DTSTART:20260918T133000Z
+DESCRIPTION:Premiär\n\nEn visuellt storslagen dokumentär om ett gruvsamhäll
+	e som håller på att försvinna. Medan en av världens största underjordiska 
+	järnmalmsgruvor breder ut sig under marken monteras Malmberget långsamt ne
+	d omkring sina sista invånare. Med värme\, melankoli och oväntad humor väx
+	er ett poetiskt och djupt berörande porträtt fram av förändring\, gemenska
+	p och livets förgänglighet. Land Produktionsår Premiär Längd Genre Distrib
+	utör Språk Textning Sverige 2026 18 sept 2026 93 min Dokumentär Lucky Dogs
+	 Svenska Svenska
+URL:https://fyrisbiografen.se/en-gang-skall-du-vara-en-av-dem-som-levat-for
+	-langesen
+LOCATION:Fyrisbiografen\, Salong 1
+DURATION:PT93M
+END:VEVENT
+BEGIN:VEVENT
+UID:656a61c0fe9e2828d3f0c919dcb60528@fyrisbio-calendar
+SUMMARY:Autofiktion
+DTSTAMP:20260915T020335Z
+DTSTART:20260918T154000Z
+DESCRIPTION:Premiär\n\nMissa inte chansen att se Pedro Almodóvars nya film 
+	före alla andra! Vi förhandsvisar den exklusivt på Kulturnatten! Efter att
+	 hennes mamma dör fördjupar sig reklamfilmsregissören Elsa i arbete för at
+	t klara situationen. När migränen tvingar henne att ta en paus bestämmer h
+	on sig för att resa till Lanzarote under en långhelg år 2004 med sin vän P
+	atricia\, medan hennes pojkvän (strippan och brandmannen Bonifacio) stanna
+	r i Madrid. För att återuppta det kreativa skrivandet utforskar hon sina n
+	ära vänners personliga lidanden. I en tidslinje som utspelar sig i nutid s
+	kriver filmskaparen Raúl ett manus som visar sig vara berättelsen om Elsa\
+	, Raúls alter ego. Raúl fördjupar sig i autofiktion för att övervinna en k
+	reativitetsblockering och blir påverkad av sitt eget liv\, sin pojkvän San
+	ti och sin assistent Mónica. Sverigepremiär 18 september.\n\nMedverkande: 
+	Bárbara Lennie\, Aitana Sánchez-Gijón\, Milena Smit\, Quim Gutiérrez\, och
+	 Leonardo Sbaraglia. Originaltitel Land Produktionsår Premiär Längd Genre 
+	Språk Textning Amarga Navidad Spanien 2026 18 sept 2026 111 min Drama Span
+	ska Svenska
+URL:https://fyrisbiografen.se/autofiktion
+LOCATION:Fyrisbiografen\, Salong 1
+DURATION:PT111M
+END:VEVENT
+BEGIN:VEVENT
+UID:da854aa88bed79786572ee23525631fa@fyrisbio-calendar
+SUMMARY:Bad Apples
+DTSTAMP:20260915T020335Z
+DTSTART:20260918T155000Z
+DESCRIPTION:Premiär\n\nMaria (Saorsie Ronan)\, en grundskollärare som gör s
+	itt bästa för att inspirera en skolklass med 10-åringar\, hämmas av en brå
+	kig och kaotisk elev. När hennes karriär börjar ifrågasättas och elevens b
+	eteende blir allt mer ohanterligt fattar hon en rad dåliga beslut\, som le
+	der till att hon av misstag tar med sig och låser in detta "bad apple" i s
+	itt hem. Maria försöker desperat rätta till sitt misstag\, men när klassen
+	 börjar blomstra och föräldrarna är överlyckliga över förbättringen hamnar
+	 hon i en mycket komplicerad situation. Den svenska regissören Jonatan Etz
+	ler (One More Time\, Badaren) lyckas med sylvass humor och högaktuell tema
+	tik synliggöra hur snabbt våra ideal överges när bekvämlighet och konsensu
+	s står på spel.\n\nMedverkande: Saorsie Ronan\, Eddie Waller\, Sean Gilder
+	\, Jacob Anderson\, och Nia Brown. Land Produktionsår Premiär Längd Genre 
+	Språk Textning Storbritannien 2026 18 sept 2026 100 min Komedi\, thriller 
+	Engelska Svenska
+URL:https://fyrisbiografen.se/bad-apples
+LOCATION:Fyrisbiografen\, Salong 2
+DURATION:PT100M
+END:VEVENT
+BEGIN:VEVENT
+UID:b3657e9e28ab04fa9a0842e040359385@fyrisbio-calendar
+SUMMARY:The Weight
+DTSTAMP:20260915T020335Z
+DTSTART:20260918T180000Z
+DESCRIPTION:Premiär\n\nDen stora depressionen slår hårt mot Samuel Murphy (
+	Ethan Hawke) och hans dotter Avy. Efter ett olyckligt möte hamnar Samuel i
+	 fängelse\, där föreståndaren Clancy (Russell Crowe) erbjuder honom en cha
+	ns att återse både friheten och sin dotter – om han genomför ett livsfarli
+	gt uppdrag genom Oregons skoningslösa vildmark. The Weight är en äventyrli
+	g överlevnadsthriller där Ethan Hawke gör en av sin karriärs mest hyllade 
+	rollprestationer.\n\nMedverkande: Ethan Hawke\, Russell Crowe\, och Julia 
+	Jones. Originaltitel Land Produktionsår Premiär Längd Genre Distributör Sp
+	råk Textning The Weight USA 2026 18 sept 2026 112 min Äventyrsthriller Non
+	Stop Engelska Svenska
+URL:https://fyrisbiografen.se/the-weight
+LOCATION:Fyrisbiografen\, Salong 2
+DURATION:PT112M
+END:VEVENT
+BEGIN:VEVENT
+UID:4a67e4966e5a73b9835995ce8f476fc5@fyrisbio-calendar
+SUMMARY:Pressure
+DTSTAMP:20260915T020335Z
+DTSTART:20260918T181000Z
+DESCRIPTION:Premiär\n\nFrankrike\, StorbritannienFrankrike...🔍 2026 18 sept
+	 2026 100 min Drama Scanbox Engelska Svenska Under de sista timmarna före 
+	D-dagen 1944 hänger den fria världens öde på en skör tråd. General Dwight 
+	D. Eisenhower (Brendan Fraser) och kapten James Stagg (Andrew Scott) står 
+	inför ett svårt\, ödesdigert val – att inleda den massiva Operation Overlo
+	rd\, eller riskera att förlora kriget helt och hållet. Stagg är RAF:s chef
+	smeteorolog\, som när han levererar en kritisk prognos om oroligt väder öv
+	er engelska kanalen orsakar en spänd konflikt med de allierade ledarna – b
+	orde invasionen skjutas upp? Pressure är en fängslande thriller om de 72 t
+	immar som leder fram till D-dagen\, när Stagg och Eisenhower tillsammans m
+	åste fatta det beslut som ska komma att förändra historiens gång. Andrew S
+	cott har vi sett i serier som Sherlock\, Fleabag och Ripley samt filmer so
+	m 1917\, Spectre och Wake Up Dead Man: A Knives Out Mystery. Brendan Frase
+	r Oscarbelönades för The Whale och sågs senast i Killers of The Flower Moo
+	n samt Rental Family. Damian Lewis (Homeland\, Billions) spelar fältmarska
+	lk Montgomery i Pressure och Kerry Condon (The Banshees of Inisherin\, Tra
+	in Dreams) ses som Eisenhowers sekreterare Kay Summersby\, vars omdöme han
+	 satte stort värde på.\n\nMedverkande: Brendan Fraser\, Andrew Scott\, Dam
+	ien Lewis\, och Kerry Condon. Land Produktionsår Premiär Längd Genre Distr
+	ibutör Språk Textning Frankrike\, StorbritannienFrankrike...🔍 2026 18 sept
+	 2026 100 min Drama Scanbox Engelska Svenska
+URL:https://fyrisbiografen.se/pressure
+LOCATION:Fyrisbiografen\, Salong 1
+DURATION:PT100M
+END:VEVENT
+BEGIN:VEVENT
+UID:e38b1858584fcc5720da211b5667358b@fyrisbio-calendar
+SUMMARY:De levande döda i Rojava
+DTSTAMP:20260915T020335Z
+DTSTART:20260924T154500Z
+DESCRIPTION:Visning med regissörsbesök\n\nThe Phantom pain of RojavaThe Pha
+	ntom pain of...🔍 Sverige 2026 4 sept 2026 81 min Dokumentär Folkets Bio Ku
+	rdiska Svenska Emmybelönade regissören Maryam Ebrahimi skildrar hoppet och
+	 drömmarna hos Rojavas frihetskämpar. En gång hyllades de som hjältar i kr
+	iget mot ISIS men nu står de övergivna av sina allierade. Ebrahimi har fåt
+	t exklusiv tillgång att under fem års tid följa fyra vänner i ett hem för 
+	sårade soldater. En efterkrigsberättelse om vänskap och det kollektiva min
+	net av det som gått förlorat. -- Visning med regissörsbesök torsdag 24 sep
+	tember kl. 17:45! Maryam Ebrahimi gästar Fyrisbiografen för ett samtal eft
+	er filmen. Samtalsledare: Maria Ryrholm Lind Originaltitel Land Produktion
+	sår Premiär Längd Genre Distributör Språk Textning The Phantom pain of Roj
+	avaThe Phantom pain of...🔍 Sverige 2026 4 sept 2026 81 min Dokumentär Folk
+	ets Bio Kurdiska Svenska
+URL:https://fyrisbiografen.se/de-levande-doda-i-rojava
+LOCATION:Fyrisbiografen\, Salong 1
+DURATION:PT81M
+END:VEVENT
+BEGIN:VEVENT
+UID:59122e37efc7290b4b82e57ea44d7e85@fyrisbio-calendar
+SUMMARY:Eternal Sunshine of the Spotless Mind
+DTSTAMP:20260915T020335Z
+DTSTART:20261004T174500Z
+DESCRIPTION:Klassiker\n\nJoel och Clementine har precis gått igenom en jobb
+	ig separation. För att kunna gå vidare med sitt liv bestämmer sig Clementi
+	ne för att vända sig till företaget Lacuna Inc.\, som genom en speciell me
+	tod kan radera sånt du inte längre vill minnas. Men frågan är om det är bä
+	ttre att helt glömma än att minnas något alls? Jim Carrey och Kate Winslet
+	 kompletterar varandra perfekt i en av de stora relationsberättelserna frå
+	n 2000-talet. Oförglömligt manus av Charlie Kaufman och lekfull regi av Mi
+	chel Gondry! "En egensinnig kärleksfilm för en desillusionerad generation.
+	" - DN\n\nMedverkande: Jim Carrey\, Kate Winslet\, Elijah Wood\, Kirsten D
+	unst\, Mark Ruffalo\, David Cross\, och Tom Wilkinson. Land Produktionsår 
+	Premiär Längd Genre Åldersgräns Språk Textning USA 2004 1 jan 2004 108 min
+	 Romantik/sci-fi Från 11 år Engelska Ej angivet
+URL:https://fyrisbiografen.se/eternal-sunshine-of-the-spotless-mind
+LOCATION:Fyrisbiografen\, Salong 1
+DURATION:PT108M
+END:VEVENT
+BEGIN:VEVENT
+UID:0afa2b843fb17ccdb72c7e5a1af69579@fyrisbio-calendar
+SUMMARY:Berättelsen om Adèle H.
+DTSTAMP:20260915T020335Z
+DTSTART:20261008T154500Z
+DESCRIPTION:Alliance Françaises filmstudio\n\nL'Histoire d'Adèle HL'Histoir
+	e...🔍 Frankrike 1975 26 dec 1975 95 min Drama Från 11 år Fyrisbiografen Fr
+	anska Engelska Välkommen till höstterminens första visning med Alliance Fr
+	ançaises filmstudio! Filmen som visas är François Truffauts historiska dra
+	ma Berättelsen om Adèle H. (L'Histoire d'Adèle H) från 1975. Filmen handla
+	r om Adèle Hugo\, dotter till författaren Victor Hugo\, och manuset bygger
+	 på hennes dagböcker. Filmen har franskt tal och engelsk text. Miss Lewly 
+	anländer till Halifax år 1863. Där söker hon efter löjnant Pinson\, som ho
+	n är vansinnigt förälskad i\, men som inte vill veta av henne. Trots att h
+	an är tydlig med sina känslor ger hon inte upp hoppet\, utan vill till var
+	je pris gifta sig med honom och följer efter honom överallt. Miss Lewly är
+	 i själva verket Adèle Hugo\, den kände författaren Victor Hugos yngsta do
+	tter. -- Miss Lewly takes lodgings in Halifax in 1863. There\, she searche
+	s for Lieutenant Pinson\, with whom she is madly in love\, but who does no
+	t love her. Despite his making this clear to her\, she continues to pursue
+	 him\, even though she knows that he has a mistress. Miss Lewly is in fact
+	 Adèle Hugo\, the poet’s second daughter. She tries at all costs to marry 
+	him and succeeds in preventing Pinson from marrying another woman. Adèle’s
+	 mother dies\, and Pinson leaves for Barbados\; she follows him. Taken in 
+	by Mrs. Baa\, who informs the Hugo family\, she is sent back to France and
+	 institutionalized. -- Miss Lewly prend pension à Halifax en 1863. Elle y 
+	cherche le Lieutenant Pinson dont elle est follement amoureuse mais qui ne
+	 l'aime pas. Il a beau le lui signifier\, elle continue de le poursuivre m
+	ême si elle sait qu'il a une maîtresse. Miss Lewly est en réalité Adèle Hu
+	go\, la seconde fille du poète. Elle essaie à tout prix de l'épouser\, fai
+	t échouer le mariage de Pinson avec une autre femme. La mère d'Adèle meurt
+	 et Pinson part à la Barbarde\, elle le suit. Recueillie par Mme Baa qui p
+	révient la famille Hugo\, elle sera renvoyée en France et internée.\n\nMed
+	verkande: Isabelle Adjani\, Bruce Robinson\, Sylvia Marriott\, Joseph Blat
+	chley\, Ivry Gitlis\, och Cecil De Sausmarez. Originaltitel Land Produktio
+	nsår Premiär Längd Genre Åldersgräns Distributör Språk Textning L'Histoire
+	 d'Adèle HL'Histoire...🔍 Frankrike 1975 26 dec 1975 95 min Drama Från 11 å
+	r Fyrisbiografen Franska Engelska
+URL:https://fyrisbiografen.se/berattelsen-om-ad%C3%A8le-h
+LOCATION:Fyrisbiografen\, Salong 1
+DURATION:PT95M
+END:VEVENT
+BEGIN:VEVENT
+UID:958201c1a455956c413ba74eeff8d9b8@fyrisbio-calendar
+SUMMARY:Don't Tell Mother
+DTSTAMP:20260915T020335Z
+DTSTART:20261010T131500Z
+DESCRIPTION:Asiatiska Filmfestivalen\n\nFör femte året i rad gästas Fyris a
+	v festivalen som fokuserar på kvalitetsfilmer från Asien! Tillsammans har 
+	vi valt ut tre strålande filmer\, som alla har visats och prisats på filmf
+	estivaler världen över. Paketpris! Se alla 3 filmerna för 315 kr (ordinari
+	e pris 375 kr). Rabattpris (student\, pensionär\, under 20 m.fl.) 240 kr (
+	ord. 285 kr). Läs mer här. Bangalore\, 1990-talet. Nioårige Aakash växer u
+	pp i en till synes helt vanlig familj. Tillsammans med sin lillebror hitta
+	r han ständigt på bus och besöker ofta sin mormor\, som bor i närheten. I 
+	skolan finns en mattelärare som slår Aakash över knogarna när han pratar f
+	ör mycket – något han håller hemligt för sin mamma. Hon är sträng\, men oc
+	kså omtänksam. Hon längtar efter självständighet men hålls tillbaka av fam
+	iljens traditionella förväntningar. Don’t Tell Mother är Anoop Lookurs var
+	mhjärtade långfilmsdebut\, fylld av små\, finstämda inslag av humor. Genom
+	 den unge huvudpersonens blick återvänder regissören till barndomens traum
+	atiska erfarenheter\, samtidigt som han väcker liv i de varma och ömsinta 
+	minnen som präglar denna tid – inte minst relationen till hans mamma. Tal:
+	 Kannada Text: Engelska --- AFF and Fyrisbiografen collaborate for the fif
+	th year in a row to bring you some of the best of contemporary Asian film!
+	 This year: 3 wonderful films which have had an impressive festival life a
+	nd received many awards all over the world. 3-Film Package! See all 3 film
+	s for SEK 315 (regular price SEK 375). Discounted price (students\, senior
+	s\, under 20s\, etc.) SEK 240 (regular price SEK 285). More information he
+	re . Bangalore\, 1990s. 9 years-old Aakash grows up in an apparently ordin
+	ary family. He and his younger brother are mischievous and often visit the
+	ir grandmother who lives nearby. At school\, there is this maths teacher w
+	ho raps Aakash’s knuckles for talking too much\, something he keeps hidden
+	 from his mother. She is strict\, but she is caring. She longs for indepen
+	dence but finds herself constrained by traditional family expectations. Do
+	n’t tell Mother is Lookur’s heartwarming debut\, enriched with delightful 
+	small touches of humour. Through the eyes of his young protagonist\, he re
+	visits traumatic childhood experiences while also evoking warm and tender 
+	memories from this period\, particularly those involving his mother. In Ka
+	nnada with English subtitles.\n\nMedverkande: Siddarth Swaroop\, Aishwarya
+	 Dinesh\, Anirudh P Keserker\, och Karthik Nagarajan . Originaltitel Land 
+	Produktionsår Premiär Längd Genre Åldersgräns Distributör Språk Textning A
+	mmang Haelbeda Indien\, Australien 2025 1 jan 2025 88 min Drama Från 11 år
+	 Fyrisbiografen Kannada Engelska
+URL:https://fyrisbiografen.se/dont-tell-mother
+LOCATION:Fyrisbiografen\, Salong 1
+DURATION:PT88M
+END:VEVENT
+BEGIN:VEVENT
+UID:9be4db5d79fa2f653d214fa0cc96bf1a@fyrisbio-calendar
+SUMMARY:Restart
+DTSTAMP:20260915T020335Z
+DTSTART:20261010T154500Z
+DESCRIPTION:Asiatiska Filmfestivalen\n\nFör femte året i rad gästas Fyris a
+	v festivalen som fokuserar på kvalitetsfilmer från Asien! Tillsammans har 
+	vi valt ut tre strålande filmer\, som alla har visats och prisats på filmf
+	estivaler världen över. Paketpris! Se alla 3 filmerna för 315 kr (ordinari
+	e pris 375 kr). Rabattpris (student\, pensionär\, under 20 m.fl.) 240 kr (
+	ord. 285 kr). Läs mer här. Efter att ha misslyckats på sina skolprov tving
+	as Ruan tillbringa några månader i sin mormors by. Redan den andra morgone
+	n vaknar han och upptäcker att samma dag upprepar sig om och om igen. Snar
+	t inser han att han har fått ett uppdrag: att rädda byn och sin egen famil
+	j från en annalkande katastrof när byns damm hotar att brista. Men hur ska
+	 han kunna förändra något när ingen tror på honom och de ansvariga myndigh
+	eterna bara följer rutinerna utan att agera? I denna berättelse levererar 
+	Duman Erkimbek en skarp kritik av korruption genom att lekfullt blanda oli
+	ka genrer. Samtidigt uttrycker han en stark tilltro till unga människor so
+	m den kraft som kan driva verklig förändring i samhället. Tal: Kazakiska T
+	ext: Engelska --- AFF and Fyrisbiografen collaborate for the fifth year in
+	 a row to bring you some of the best of contemporary Asian film! This year
+	: 3 wonderful films which have had an impressive festival life and receive
+	d many awards all over the world. 3-Film Package! See all 3 films for SEK 
+	315 (regular price SEK 375). Discounted price (students\, seniors\, under 
+	20s\, etc.) SEK 240 (regular price SEK 285). More information here . After
+	 failing his exams\, Ruan is forced to spend several months in his grand m
+	other’s village. On his second morning there\, he wakes up to find that th
+	e same day is repeating itself over and over again. He realises he has bee
+	n given a purpose: to save the village and his own family from a looming d
+	isaster caused by the village’s dam breach. But how can he change anything
+	 when no one believes him\, and the authorities in charge are only going t
+	hrough the motions? In this tale\, Duman Erkimbek delivers a sharp critiqu
+	e of corruption\, blending genres with flair\, while also expressing a dee
+	p faith in young people as the driving force of change in our societies. I
+	n Kazakh with English subtitles.\n\nMedverkande: Aksuyrik Abaykyzy\, Ashim
+	 Ahmetov\, och Aybek Azimbek. Originaltitel Land Produktionsår Premiär Län
+	gd Genre Åldersgräns Distributör Språk Textning Qaitadan Kazakstan 2025 1 
+	jan 2026 95 min Sci-fi\, drama Från 11 år Fyrisbiografen Kazakiska Engelsk
+	a
+URL:https://fyrisbiografen.se/restart
+LOCATION:Fyrisbiografen\, Salong 1
+DURATION:PT95M
+END:VEVENT
+BEGIN:VEVENT
+UID:e4f06c3892b0a19cab7b8adaae9ba286@fyrisbio-calendar
+SUMMARY:A Useful Ghost
+DTSTAMP:20260915T020335Z
+DTSTART:20261010T180000Z
+DESCRIPTION:Asiatiska Filmfestivalen\n\nThailand\, Frankrike\, SingaporeTha
+	iland\, Frankrike...🔍 2025 1 jan 2026 130 min Drama\, fantasy\, komedi Frå
+	n 15 år Fyrisbiografen Thailändska Engelska För femte året i rad gästas Fy
+	ris av festivalen som fokuserar på kvalitetsfilmer från Asien! Tillsammans
+	 har vi valt ut tre strålande filmer\, som alla har visats och prisats på 
+	filmfestivaler världen över. Paketpris! Se alla 3 filmerna för 315 kr (ord
+	inarie pris 375 kr). Rabattpris (student\, pensionär\, under 20 m.fl.) 240
+	 kr (ord. 285 kr). Läs mer här. March sörjer sin fru Nat\, som nyligen avl
+	ed till följd av luftföroreningar och dammrelaterade hälsoproblem. När han
+	 upptäcker att hennes ande har återvänt i den högst oväntade formen av en 
+	dammsugare\, omfamnar han möjligheten att få vara tillsammans med henne ig
+	en. Men Marchs familj förkastar deras okonventionella relation. Samtidigt 
+	leder en fabriksarbetares död till att familjens fabrik hemsöks\, vilket f
+	år verksamheten att stanna av. Fast besluten att bevisa sin kärlek erbjude
+	r sig Nat att rena fabriken. För att bli ett nyttigt spöke måste hon först
+	 göra sig av med de onyttiga. Inspirerad av den thailändska legenden om Ma
+	e Nak levererar Ratchapoom Boonbunchachoke en urkomisk komedi där surreali
+	sm\, såpoperamelodram\, varm humor och en bländande färgstark estetik vävs
+	 samman till en både egensinnig och underhållande helhet. Tal: Thailändska
+	 Text: Engelska --- AFF and Fyrisbiografen collaborate for the fifth year 
+	in a row to bring you some of the best of contemporary Asian film! This ye
+	ar: 3 wonderful films which have had an impressive festival life and recei
+	ved many awards all over the world. 3-Film Package! See all 3 films for SE
+	K 315 (regular price SEK 375). Discounted price (students\, seniors\, unde
+	r 20s\, etc.) SEK 240 (regular price SEK 285). More information here . Mar
+	ch is grieving the loss of his wife Nat\, who recently died from dust-rela
+	ted pollution. When he discovers her spirit has returned in the unlikely f
+	orm of a vacuum cleaner\, he embraces the chance to be with her again. As 
+	March's family reject their unconventional relationship\, a worker's death
+	 unleashes a haunting at the family factory\, bringing the business to a h
+	alt. Determined to prove their love\, Nat offers to cleanse the factory. T
+	o become a useful ghost\, she must first get rid of the useless ones. Insp
+	ired by the Thai legend of Mae Nak\, Ratchapoom Boonbunchachok delivers an
+	 impressive debut\, skilfully weaving together a surreal atmosphere\, soap
+	-opera melodrama\, joyful humour\, and a dazzlingly colourful visual palet
+	te. In Thai with English subtitles.\n\nMedverkande: Davika Hoorne\, Witsar
+	ut Himmarat\, Apasiri Nitibhon\, Wanlop Rungkumjud\, och Wisarut Homhuan. 
+	Originaltitel Land Produktionsår Premiär Längd Genre Åldersgräns Distribut
+	ör Språk Textning Pee chai dai ka Thailand\, Frankrike\, SingaporeThailand
+	\, Frankrike...🔍 2025 1 jan 2026 130 min Drama\, fantasy\, komedi Från 15 
+	år Fyrisbiografen Thailändska Engelska
+URL:https://fyrisbiografen.se/a-useful-ghost
+LOCATION:Fyrisbiografen\, Salong 1
+DURATION:PT130M
 END:VEVENT
 END:VCALENDAR
