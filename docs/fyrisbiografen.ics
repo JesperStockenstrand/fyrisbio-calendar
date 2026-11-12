@@ -6,10 +6,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:Fyrisbiografen
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:dbdeb0744b7f62a8d5a23a946762ab71@fyrisbio-calendar
+UID:7c0fc48d9f1e95b7cf77d45937b8771a@fyrisbio-calendar
 SUMMARY:Kärlek över Tanger
-DTSTAMP:20261111T234608Z
-DTSTART:20261111T120000Z
+DTSTAMP:20261112T043150Z
+DTSTART:20261112T120000Z
 DESCRIPTION:En sensuell och hjärtevärmande feelgood\, som slår fast att åld
 	erdom är allt annat än att säga adjö till bångstyrighet\, livslust\, drömm
 	ar och het passion - vinnare av publikpriset på Göteborg Filmfestival! Mar
@@ -28,10 +28,10 @@ LOCATION:Fyrisbiografen\, Salong 2
 DURATION:PT116M
 END:VEVENT
 BEGIN:VEVENT
-UID:2147de24556aa3a74a6d23be2ca29f6a@fyrisbio-calendar
+UID:d0895cbe28808c56e951a98b5beb40a4@fyrisbio-calendar
 SUMMARY:Sense and Sensibility
-DTSTAMP:20261111T234608Z
-DTSTART:20261111T120000Z
+DTSTAMP:20261112T043150Z
+DTSTART:20261112T120000Z
 DESCRIPTION:Från Focus Features och Working Title kommer en oemotståndlig n
 	y tolkning av Jane Austens ikoniska Sense and Sensibility. En charmig\, kv
 	ick och djupt relaterbar berättelse om kärlek och systerskap\, med Daisy E
@@ -45,10 +45,10 @@ LOCATION:Fyrisbiografen\, Salong 1
 DURATION:PT131M
 END:VEVENT
 BEGIN:VEVENT
-UID:68de0f859080d03ad99558a9f6a1db15@fyrisbio-calendar
+UID:d06d0eb1a3313423200abba73dea0d6a@fyrisbio-calendar
 SUMMARY:Enzo
-DTSTAMP:20261111T234608Z
-DTSTART:20261111T142000Z
+DTSTAMP:20261112T043150Z
+DTSTART:20261112T142000Z
 DESCRIPTION:Vad är meningen med livet om du inte väljer din egen väg? När E
 	nzo hoppar av sin utbildning och börjar jobba som murarlärling går det rak
 	t emot förväntningarna hos hans akademikerföräldrar. Pressad av sin pappa 
@@ -67,10 +67,10 @@ LOCATION:Fyrisbiografen\, Salong 2
 DURATION:PT112M
 END:VEVENT
 BEGIN:VEVENT
-UID:5d93aa92dd6635ea04ec7f88ab51e95b@fyrisbio-calendar
+UID:89c2a250d55c061acb0eceb768ba68d9@fyrisbio-calendar
 SUMMARY:Sjung för mig Arja!
-DTSTAMP:20261111T234608Z
-DTSTART:20261111T150000Z
+DTSTAMP:20261112T043150Z
+DTSTART:20261112T150000Z
 DESCRIPTION:Smygpremiär med besök av Arja Saijonmaa!\n\nVälkommen på smygpr
 	emiär av Sjung för mig Arja! den 12 november kl. 16:00! Vi är glada och st
 	olta över att gästas av ingen mindre än Arja Saijonmaa själv\, som samtala
@@ -92,10 +92,10 @@ LOCATION:Fyrisbiografen\, Salong 1
 DURATION:PT95M
 END:VEVENT
 BEGIN:VEVENT
-UID:35136def9892f172ee979d8805d4a384@fyrisbio-calendar
+UID:43a451d80d2814d076817025e60c2973@fyrisbio-calendar
 SUMMARY:En sorglig och vacker värld
-DTSTAMP:20261111T234608Z
-DTSTART:20261111T163000Z
+DTSTAMP:20261112T043150Z
+DTSTART:20261112T163000Z
 DESCRIPTION:Nujum al'amal w al'alamNujum al'amal...🔍 Libanon 2025 6 nov 202
 	6 109 min Drama Folkets Bio Arabiska Svenska En episk kärlekshistoria om N
 	ino och Yasmina i ett Beirut märkt av tiden. Födda på samma dag verkar Nin
@@ -113,10 +113,10 @@ LOCATION:Fyrisbiografen\, Salong 2
 DURATION:PT109M
 END:VEVENT
 BEGIN:VEVENT
-UID:fd118e8b4748021e0efa4bc5f9c6d0ea@fyrisbio-calendar
+UID:266362c4f470941adb294615f464f7f8@fyrisbio-calendar
 SUMMARY:Monsieur Aznavour
-DTSTAMP:20261111T234608Z
-DTSTART:20261111T183000Z
+DTSTAMP:20261112T043150Z
+DTSTART:20261112T183000Z
 DESCRIPTION:Alliance Françaises filmstudio\n\nVälkommen till höstterminens 
 	andra visning med Alliance Françaises filmstudio! Filmen som visas är Gran
 	d Corps Malades och Idir Mehdis biopic om Charles Aznavour - Monsieur Azna
@@ -145,10 +145,10 @@ LOCATION:Fyrisbiografen\, Salong 1
 DURATION:PT134M
 END:VEVENT
 BEGIN:VEVENT
-UID:630f392e31d42e3465a59feee72a53b0@fyrisbio-calendar
+UID:58c080079dcafba15fd89fcfc50f2895@fyrisbio-calendar
 SUMMARY:Fjord
-DTSTAMP:20261111T234608Z
-DTSTART:20261111T184500Z
+DTSTAMP:20261112T043150Z
+DTSTART:20261112T184500Z
 DESCRIPTION:Rumänien\, Sverige\, NorgeRumänien\, Sverige...🔍 2026 2 okt 202
 	6 146 min Drama TriArt Andrea Berentsen Ottmar Norska Svenska Vinnare av G
 	uldpalmen i Cannes 2026! Det rumänsk-norska paret Mihai och Lisbeth Gheorg
@@ -172,10 +172,10 @@ LOCATION:Fyrisbiografen\, Salong 2
 DURATION:PT146M
 END:VEVENT
 BEGIN:VEVENT
-UID:9fccce1d4e2467574bf008ecae3c7e8b@fyrisbio-calendar
+UID:eea757b6b6f503597fb45522b72b96b2@fyrisbio-calendar
 SUMMARY:En sorglig och vacker värld
-DTSTAMP:20261111T234608Z
-DTSTART:20261112T142000Z
+DTSTAMP:20261112T043150Z
+DTSTART:20261113T142000Z
 DESCRIPTION:Nujum al'amal w al'alamNujum al'amal...🔍 Libanon 2025 6 nov 202
 	6 109 min Drama Folkets Bio Arabiska Svenska En episk kärlekshistoria om N
 	ino och Yasmina i ett Beirut märkt av tiden. Födda på samma dag verkar Nin
@@ -193,10 +193,10 @@ LOCATION:Fyrisbiografen\, Salong 2
 DURATION:PT109M
 END:VEVENT
 BEGIN:VEVENT
-UID:fead9b0f3c442bbbba227aef5b144abe@fyrisbio-calendar
+UID:dbc9bfb0cdd39d1d806bcd8457eeebda@fyrisbio-calendar
 SUMMARY:Kärlek över Tanger
-DTSTAMP:20261111T234608Z
-DTSTART:20261112T143000Z
+DTSTAMP:20261112T043150Z
+DTSTART:20261113T143000Z
 DESCRIPTION:En sensuell och hjärtevärmande feelgood\, som slår fast att åld
 	erdom är allt annat än att säga adjö till bångstyrighet\, livslust\, drömm
 	ar och het passion - vinnare av publikpriset på Göteborg Filmfestival! Mar
@@ -215,10 +215,10 @@ LOCATION:Fyrisbiografen\, Salong 1
 DURATION:PT116M
 END:VEVENT
 BEGIN:VEVENT
-UID:0e85a6ecf5c70cf2721131fd472d2184@fyrisbio-calendar
+UID:47cd0d391149505dcc344c68b1f2cd37@fyrisbio-calendar
 SUMMARY:Sjung för mig Arja!
-DTSTAMP:20261111T234608Z
-DTSTART:20261112T164500Z
+DTSTAMP:20261112T043150Z
+DTSTART:20261113T164500Z
 DESCRIPTION:Premiär\n\nVälkommen på smygpremiär av Sjung för mig Arja! den 
 	12 november kl. 16:00! Vi är glada och stolta över att gästas av ingen min
 	dre än Arja Saijonmaa själv\, som samtalar med moderatorn Gro Hansen efter
@@ -240,10 +240,10 @@ LOCATION:Fyrisbiografen\, Salong 2
 DURATION:PT95M
 END:VEVENT
 BEGIN:VEVENT
-UID:afadc68a7ac5ac4eb766dabe595141f0@fyrisbio-calendar
+UID:a6698242177a01e9b63596a1d5178e24@fyrisbio-calendar
 SUMMARY:Jävla karlar
-DTSTAMP:20261111T234609Z
-DTSTART:20261112T170000Z
+DTSTAMP:20261112T043150Z
+DTSTART:20261113T170000Z
 DESCRIPTION:Julen 1983. Efter ännu ett våldsamt gräl avslöjar sjuårige Andr
 	evs mamma en hemlighet för honom: hans pappa är faktiskt inte hans pappa. 
 	I stället för att bli förkrossad blir Andrev exalterad över de möjligheter
@@ -271,10 +271,10 @@ LOCATION:Fyrisbiografen\, Salong 1
 DURATION:PT108M
 END:VEVENT
 BEGIN:VEVENT
-UID:24168c5ddffeff663826d178f6467f2e@fyrisbio-calendar
+UID:e7bf0f1aae6c602a26669ec8f99b3bdc@fyrisbio-calendar
 SUMMARY:A Talent for Murder
-DTSTAMP:20261111T234609Z
-DTSTART:20261112T185000Z
+DTSTAMP:20261112T043150Z
+DTSTART:20261113T185000Z
 DESCRIPTION:Premiär\n\nDen unge författaragenten Edward (Alden Ehrenreich) 
 	sänds till de schweiziska alperna av sitt förlag i New York. Uppdraget är 
 	att övertala den tillbakadragna\, kedjerökande och vasstungade deckardrott
@@ -292,10 +292,10 @@ LOCATION:Fyrisbiografen\, Salong 2
 DURATION:PT106M
 END:VEVENT
 BEGIN:VEVENT
-UID:44774804473d00f66ca69ca3c700ae9a@fyrisbio-calendar
+UID:c0af9d8508f3a5f2d14838993fa13ebc@fyrisbio-calendar
 SUMMARY:Arkipelag
-DTSTAMP:20261111T234609Z
-DTSTART:20261112T192000Z
+DTSTAMP:20261112T043150Z
+DTSTART:20261113T192000Z
 DESCRIPTION:Laddat drama möter mörk humor när Alex Schulman regidebuterar m
 	ed Arkipelag\, där Gustaf Skarsgård\, Fares Fares och Linus Wahlgren spela
 	r tre pappor som följer med sina döttrar på en skolresa till helvetet. Str
@@ -313,7 +313,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5df3f83c211f12cbef3aa3bb09eb162c@fyrisbio-calendar
 SUMMARY:Papaya - ett frö på äventyr
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261114T120000Z
 DESCRIPTION:Följ med Papaya - ett litet frö med stora drömmar! Ett litet fr
 	ö i Amazonas djungel längtar efter att flyga och håller sig ständigt i rör
@@ -333,7 +333,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0aaf1ad0a02d1bbdd9c18ffa9265ffb1@fyrisbio-calendar
 SUMMARY:Lilla Amélie eller tecknet för regn
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261114T121000Z
 DESCRIPTION:Premiär\n\nAmélie et la métaphysique des tubesAmélie et la...🔍 
 	Frankrike 2025 13 nov 2026 77 min Animerad familjefilm Från 7 år Från ca 7
@@ -365,7 +365,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d9abf91a9b3759596dfa098603bffcd4@fyrisbio-calendar
 SUMMARY:De Gaulle: Frihetens röst
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261114T134500Z
 DESCRIPTION:La Bataille De Gaulle : J'écris ton nomLa Bataille De...🔍 Frank
 	rike 2026 30 okt 2026 157 min Historiskt drama Franska Svenska Vi följer g
@@ -391,7 +391,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:607904464a1fed506e10f5ef2e58f96b@fyrisbio-calendar
 SUMMARY:Sjung för mig Arja!
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261114T140000Z
 DESCRIPTION:Välkommen på smygpremiär av Sjung för mig Arja! den 12 november
 	 kl. 16:00! Vi är glada och stolta över att gästas av ingen mindre än Arja
@@ -416,7 +416,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1ebfd208f5e7faab8a9e45fa2d36d7f2@fyrisbio-calendar
 SUMMARY:Sense and Sensibility
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261114T161000Z
 DESCRIPTION:Från Focus Features och Working Title kommer en oemotståndlig n
 	y tolkning av Jane Austens ikoniska Sense and Sensibility. En charmig\, kv
@@ -433,7 +433,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bb4f9dabd43b8a7dd12bf7bbc686830d@fyrisbio-calendar
 SUMMARY:Kärlek över Tanger
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261114T170000Z
 DESCRIPTION:En sensuell och hjärtevärmande feelgood\, som slår fast att åld
 	erdom är allt annat än att säga adjö till bångstyrighet\, livslust\, drömm
@@ -455,7 +455,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c93ab0b1a70b0e147065d28814a98ac3@fyrisbio-calendar
 SUMMARY:Jävla karlar
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261114T190000Z
 DESCRIPTION:Julen 1983. Efter ännu ett våldsamt gräl avslöjar sjuårige Andr
 	evs mamma en hemlighet för honom: hans pappa är faktiskt inte hans pappa. 
@@ -486,7 +486,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7aa9fa80d88a975a644b03c17a7c99cc@fyrisbio-calendar
 SUMMARY:En sorglig och vacker värld
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261114T192000Z
 DESCRIPTION:Nujum al'amal w al'alamNujum al'amal...🔍 Libanon 2025 6 nov 202
 	6 109 min Drama Folkets Bio Arabiska Svenska En episk kärlekshistoria om N
@@ -507,7 +507,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ed74eee7709a97f24edd881f00e63345@fyrisbio-calendar
 SUMMARY:Papaya - ett frö på äventyr
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261115T120000Z
 DESCRIPTION:Följ med Papaya - ett litet frö med stora drömmar! Ett litet fr
 	ö i Amazonas djungel längtar efter att flyga och håller sig ständigt i rör
@@ -527,7 +527,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:af1b7054f5b0f0a05691eb0ca17aff6d@fyrisbio-calendar
 SUMMARY:Lilla Amélie eller tecknet för regn
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261115T121000Z
 DESCRIPTION:Amélie et la métaphysique des tubesAmélie et la...🔍 Frankrike 2
 	025 13 nov 2026 77 min Animerad familjefilm Från 7 år Från ca 7 år Njutafi
@@ -559,7 +559,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:69185103da334f35a78d02fb3f489482@fyrisbio-calendar
 SUMMARY:Resan till Piemonte
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261115T134500Z
 DESCRIPTION:Kort tid kvar\n\nJonathan Ridings...🔍 Svenska Svenska Fyra vänn
 	er åker tillsammans till Italien där Eva (Helena Bergström) ärvt en olivgå
@@ -580,7 +580,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:42a3e03988ebf3a168ebe01a7379c53d@fyrisbio-calendar
 SUMMARY:Wildwood
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261115T140000Z
 DESCRIPTION:Hur långt skulle du gå för dem du älskar? Wildwood från animati
 	onsstudion Laika (Coraline) är ett storslaget äventyr om kärlek\, uppoffri
@@ -612,7 +612,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:77a777e35c9ee12dbb66cede319d9b8b@fyrisbio-calendar
 SUMMARY:Sense and Sensibility
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261115T161000Z
 DESCRIPTION:Stickbio!\n\nFrån Focus Features och Working Title kommer en oe
 	motståndlig ny tolkning av Jane Austens ikoniska Sense and Sensibility. En
@@ -629,7 +629,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df64f97cb1ef83e54fff272818af7641@fyrisbio-calendar
 SUMMARY:Arkipelag
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261115T164000Z
 DESCRIPTION:Laddat drama möter mörk humor när Alex Schulman regidebuterar m
 	ed Arkipelag\, där Gustaf Skarsgård\, Fares Fares och Linus Wahlgren spela
@@ -648,7 +648,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e484e1b952bc5c7cb8cf7039cfdfda6b@fyrisbio-calendar
 SUMMARY:A Talent for Murder
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261115T185000Z
 DESCRIPTION:Den unge författaragenten Edward (Alden Ehrenreich) sänds till 
 	de schweiziska alperna av sitt förlag i New York. Uppdraget är att övertal
@@ -669,7 +669,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:87d79a97b6c08f42baf314a77c6fdc6d@fyrisbio-calendar
 SUMMARY:Främlingen
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261115T190000Z
 DESCRIPTION:Näst sista visningen\n\nFrançois Ozon...🔍 Franska Svenska Den a
 	nspråkslöse Mersault närvarar vid sin mors begravning utan att fälla en tå
@@ -691,7 +691,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3cc943aa2973bb950fac7453f3ee6c0e@fyrisbio-calendar
 SUMMARY:En sorglig och vacker värld
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261116T163000Z
 DESCRIPTION:Nujum al'amal w al'alamNujum al'amal...🔍 Libanon 2025 6 nov 202
 	6 109 min Drama Folkets Bio Arabiska Svenska En episk kärlekshistoria om N
@@ -712,7 +712,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2007061b0dc71b8694b2167f008506c3@fyrisbio-calendar
 SUMMARY:Bad Apples
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261116T164500Z
 DESCRIPTION:Sista visningen\n\nMaria (Saorsie Ronan)\, en grundskollärare s
 	om gör sitt bästa för att inspirera en skolklass med 10-åringar\, hämmas a
@@ -735,7 +735,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d84e984121bc508a926b76228219a894@fyrisbio-calendar
 SUMMARY:Enzo
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261116T185000Z
 DESCRIPTION:Vad är meningen med livet om du inte väljer din egen väg? När E
 	nzo hoppar av sin utbildning och börjar jobba som murarlärling går det rak
@@ -757,7 +757,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9d9d6a5a569eb85ef56103f74416feca@fyrisbio-calendar
 SUMMARY:Klara och solen
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261116T190000Z
 DESCRIPTION:Sista visningen\n\nDavid Heyman...🔍 Engelska Svenska Baserad på
 	 Nobelpristagaren Kazuo Ishiguros bästsäljande roman och skriven och regis
@@ -782,7 +782,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aa5b0b759b0c1f81568bc0929a857999@fyrisbio-calendar
 SUMMARY:Kärlek över Tanger
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261117T141500Z
 DESCRIPTION:En sensuell och hjärtevärmande feelgood\, som slår fast att åld
 	erdom är allt annat än att säga adjö till bångstyrighet\, livslust\, drömm
@@ -804,7 +804,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b0504ce5d0a4e78b03e84e924eb449bf@fyrisbio-calendar
 SUMMARY:Blir du ledsen om jag dör?
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261117T163000Z
 DESCRIPTION:Visning med samtal i samarbete med Gottsunda kulturhus och Fram
 	tidskraft\n\nVälkommen på en specialvisning av Blir du ledsen om jag dör? 
@@ -832,7 +832,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4edea77c8cacd5a007a7226ed7e20a09@fyrisbio-calendar
 SUMMARY:Sjung för mig Arja!
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261117T164500Z
 DESCRIPTION:Välkommen på smygpremiär av Sjung för mig Arja! den 12 november
 	 kl. 16:00! Vi är glada och stolta över att gästas av ingen mindre än Arja
@@ -857,7 +857,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:500285cceedef3c194e7a29a702ce9de@fyrisbio-calendar
 SUMMARY:Fjord
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261117T185000Z
 DESCRIPTION:Kort tid kvar\n\nRumänien\, Sverige\, NorgeRumänien\, Sverige..
 	.🔍 2026 2 okt 2026 146 min Drama TriArt Andrea Berentsen Ottmar Norska Sve
@@ -884,7 +884,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:942bfd7c99fe68ae4e18f779bad79e7e@fyrisbio-calendar
 SUMMARY:NAZA (Eng. sub)
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261117T194500Z
 DESCRIPTION:Kort tid kvar\n\nThe Guardian...🔍 Hebreiska Engelska Shot at ni
 	ght on the rooftops of Tel Aviv\, the film reveals in detail the systems b
@@ -924,7 +924,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:da2ab3e76133e68c234c2a0f2ce8ed73@fyrisbio-calendar
 SUMMARY:Sjung för mig Arja!
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261118T115000Z
 DESCRIPTION:Välkommen på smygpremiär av Sjung för mig Arja! den 12 november
 	 kl. 16:00! Vi är glada och stolta över att gästas av ingen mindre än Arja
@@ -949,7 +949,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6208d1c799c14f391c3ed3f5fe31b8a7@fyrisbio-calendar
 SUMMARY:Resan till Piemonte
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261118T120000Z
 DESCRIPTION:Kort tid kvar\n\nJonathan Ridings...🔍 Svenska Svenska Fyra vänn
 	er åker tillsammans till Italien där Eva (Helena Bergström) ärvt en olivgå
@@ -970,7 +970,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d276c8bbaea68f0ccc30c6902e0e660b@fyrisbio-calendar
 SUMMARY:Sense and Sensibility
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261118T140000Z
 DESCRIPTION:Från Focus Features och Working Title kommer en oemotståndlig n
 	y tolkning av Jane Austens ikoniska Sense and Sensibility. En charmig\, kv
@@ -987,7 +987,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4b523d81cf8167918471a4951dcf6ad3@fyrisbio-calendar
 SUMMARY:A Talent for Murder
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261118T142000Z
 DESCRIPTION:Den unge författaragenten Edward (Alden Ehrenreich) sänds till 
 	de schweiziska alperna av sitt förlag i New York. Uppdraget är att övertal
@@ -1008,7 +1008,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c3b0b4785ec4806b8eb0555a9c637bfd@fyrisbio-calendar
 SUMMARY:Smugglaren
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261118T164000Z
 DESCRIPTION:Kort tid kvar\n\nSmugglaren\, ett absurt äventyr på jakt efter 
 	en försvunnen revolver\, berättar historien om en far som inte ville dö. H
@@ -1036,7 +1036,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4b22b86e99476718fca9ffa669e9d7d1@fyrisbio-calendar
 SUMMARY:Jävla karlar
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261118T165000Z
 DESCRIPTION:Julen 1983. Efter ännu ett våldsamt gräl avslöjar sjuårige Andr
 	evs mamma en hemlighet för honom: hans pappa är faktiskt inte hans pappa. 
@@ -1067,7 +1067,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1cd01b8ffae1f5d1b88397d5ef558aba@fyrisbio-calendar
 SUMMARY:De Gaulle: Frihetens röst
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261118T182000Z
 DESCRIPTION:La Bataille De Gaulle : J'écris ton nomLa Bataille De...🔍 Frank
 	rike 2026 30 okt 2026 157 min Historiskt drama Franska Svenska Vi följer g
@@ -1093,7 +1093,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:645dc8fb731d4812f8eee1062064fa60@fyrisbio-calendar
 SUMMARY:Arkipelag
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261118T191000Z
 DESCRIPTION:Laddat drama möter mörk humor när Alex Schulman regidebuterar m
 	ed Arkipelag\, där Gustaf Skarsgård\, Fares Fares och Linus Wahlgren spela
@@ -1112,7 +1112,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7e73442dca8d51c17547bd80e0ed0e49@fyrisbio-calendar
 SUMMARY:Främlingen
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261119T120000Z
 DESCRIPTION:Sista visningen\n\nFrançois Ozon...🔍 Franska Svenska Den ansprå
 	kslöse Mersault närvarar vid sin mors begravning utan att fälla en tår. Da
@@ -1134,7 +1134,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f733a61611e6ec3171b53c882795ee2a@fyrisbio-calendar
 SUMMARY:Smugglaren
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261119T121500Z
 DESCRIPTION:Kort tid kvar\n\nSmugglaren\, ett absurt äventyr på jakt efter 
 	en försvunnen revolver\, berättar historien om en far som inte ville dö. H
@@ -1162,7 +1162,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:44f22910a08ccd91dfcdbc67ce2cfbc2@fyrisbio-calendar
 SUMMARY:Jävla karlar
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261119T140000Z
 DESCRIPTION:Julen 1983. Efter ännu ett våldsamt gräl avslöjar sjuårige Andr
 	evs mamma en hemlighet för honom: hans pappa är faktiskt inte hans pappa. 
@@ -1193,7 +1193,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:839d1b913dd4873746c159dc736a8c67@fyrisbio-calendar
 SUMMARY:Enzo
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261119T143000Z
 DESCRIPTION:Vad är meningen med livet om du inte väljer din egen väg? När E
 	nzo hoppar av sin utbildning och börjar jobba som murarlärling går det rak
@@ -1215,7 +1215,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7484f52b2efaac6b79a84d4befda210e@fyrisbio-calendar
 SUMMARY:Arkipelag
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261119T163000Z
 DESCRIPTION:Laddat drama möter mörk humor när Alex Schulman regidebuterar m
 	ed Arkipelag\, där Gustaf Skarsgård\, Fares Fares och Linus Wahlgren spela
@@ -1234,7 +1234,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:04d65c3c95f8290582f566cd9c326525@fyrisbio-calendar
 SUMMARY:A Talent for Murder
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261119T164500Z
 DESCRIPTION:Den unge författaragenten Edward (Alden Ehrenreich) sänds till 
 	de schweiziska alperna av sitt förlag i New York. Uppdraget är att övertal
@@ -1255,7 +1255,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cdf1af336f8fda9252f1887572d496ff@fyrisbio-calendar
 SUMMARY:Sense and Sensibility
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261119T185000Z
 DESCRIPTION:Från Focus Features och Working Title kommer en oemotståndlig n
 	y tolkning av Jane Austens ikoniska Sense and Sensibility. En charmig\, kv
@@ -1272,7 +1272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:3cfb88708728eb9eb82c4fa82232676a@fyrisbio-calendar
 SUMMARY:Palestina 36 (Eng. sub.)
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261119T191000Z
 DESCRIPTION:Sista visningen / English subtitles\n\nThe year is 1936\, and P
 	alestine is under British colonial rule. Yusuf\, the son of a farmer\, dre
@@ -1296,7 +1296,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8ee4f73c413c5dfbcbf86c06253bb516@fyrisbio-calendar
 SUMMARY:Forastera
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261120T163000Z
 DESCRIPTION:Premiär\n\nUnder ett sommarlov på Mallorca förändras Catas till
 	varo abrupt när hennes älskade mormor plötsligt dör. Medan familjen försök
@@ -1316,7 +1316,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:afa322f859632d45ea3c42c42eb5a548@fyrisbio-calendar
 SUMMARY:Arne Goes to Space
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261120T164500Z
 DESCRIPTION:Premiär\n\nBröderna Arne (Lennart Jähkel) och Stefan (Rolf Lass
 	gård) fyller dagarna i norrländska Brobyn med vedhuggning och jaktlagsgnab
@@ -1339,7 +1339,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e3a02a07bb2d1cc8118439ba936deeb0@fyrisbio-calendar
 SUMMARY:Wild Horse Nine
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261120T190000Z
 DESCRIPTION:Premiär\n\nDramakomedi skriven och regisserad av Martin McDonag
 	h (The Banshees of Inisherin\, Three Billboards Outside Ebbing\, Missouri)
@@ -1356,7 +1356,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2332ded44b5cbbee722194b57a02a51f@fyrisbio-calendar
 SUMMARY:You Can See Everything
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261121T190000Z
 DESCRIPTION:Premiär\n\nTrettiofyra dagar innan hon ska in i fängelse bjuder
 	 den skandalomsusade Silicon Valley-grundaren Elizabeth Holmes in ett skep
@@ -1373,7 +1373,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6626ab10f73fe10d80bc61a99c5b107e@fyrisbio-calendar
 SUMMARY:Berätta för alla
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261122T140000Z
 DESCRIPTION:Ny finsk film - Extravisning på European Arthouse Cinema Day\n\
 	nÅret är 1898 och vi följer Amanda Aaltonen\, en djärv kvinna som vägrat u
@@ -1421,7 +1421,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c669ddbd2d813a75e46f5c7927f6ea1b@fyrisbio-calendar
 SUMMARY:Fatherland
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261122T163000Z
 DESCRIPTION:Förhandsvisning på European Arthouse Cinema Day\n\n-- Förhandsv
 	isning på European Arthouse Cinema Day 22 november! -- 1949. Kalla kriget 
@@ -1443,7 +1443,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6f445e95ce6b492340437f70095a8a58@fyrisbio-calendar
 SUMMARY:Silent Friend
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261122T183000Z
 DESCRIPTION:Exklusiv visning på European Arthouse Cinema Day\n\nTyskland\, 
 	Frankrike\, UngernTyskland\, Frankrike...🔍 2026 20 nov 2026 147 min Drama 
@@ -1477,7 +1477,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:affb902bbb4a0085d3dc041ee3d2c0d3@fyrisbio-calendar
 SUMMARY:You Can See Everything
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261125T183000Z
 DESCRIPTION:Trettiofyra dagar innan hon ska in i fängelse bjuder den skanda
 	lomsusade Silicon Valley-grundaren Elizabeth Holmes in ett skeptiskt filmt
@@ -1494,7 +1494,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d458decdb6c8c32b4773e458cb875cf4@fyrisbio-calendar
 SUMMARY:Det finns inga bra karlar
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261127T163000Z
 DESCRIPTION:Premiär\n\nNaru är en 30 år gammal kamerakvinna i Kabul strax f
 	öre talibanernas offensiv 2021. Hon lever separerad från sin otrogne make 
@@ -1518,7 +1518,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:37d805c428ba449c2970b425b39073e5@fyrisbio-calendar
 SUMMARY:Chopin - en sonat i Paris
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261127T164500Z
 DESCRIPTION:Premiär\n\nPolen\, Frankrike\, SpanienPolen\, Frankrike...🔍 202
 	5 27 nov 2026 133 min Drama Maywin Media Franska Svenska Paris\, 1835. Fry
@@ -1539,7 +1539,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:03214f3ec0ebe574bdb68599f3383790@fyrisbio-calendar
 SUMMARY:Woman and Child
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261127T184500Z
 DESCRIPTION:Premiär\n\nEva Dottelonde...🔍 Persiska Svenska Mahnaz\, en 40-å
 	rig sjuksköterska och änka\, balanserar vardagslivets utmaningar tillsamma
@@ -1561,7 +1561,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2cc8c64425674342d18a6761816c853a@fyrisbio-calendar
 SUMMARY:Paper Tiger
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261127T191000Z
 DESCRIPTION:Premiär\n\nI 1980-talets New York försöker ingenjören Irwin och
 	 hans fru Hester (Miles Teller och Scarlett Johansson) klara vardagen med 
@@ -1584,7 +1584,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2a3dd00a4e4e13f635556c637731b96d@fyrisbio-calendar
 SUMMARY:En vackrare värld
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261129T130000Z
 DESCRIPTION:Teaterkonsert med filmsmakprov!\n\nEn brinnande och humoristisk
 	 nyskriven teaterkonsert med Astrid Lindgren som ledstjärna\, framförd av 
@@ -1629,7 +1629,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8a0f5919febe2e053435ff347eb898cc@fyrisbio-calendar
 SUMMARY:Nightborn
-DTSTAMP:20261111T234609Z
+DTSTAMP:20261112T043150Z
 DTSTART:20261208T164500Z
 DESCRIPTION:Ny finsk film\n\nSaga (Seidi Haarla) och Jon (Rupert Grint) har
 	 länge drömt om barn. När de flyttar till ett hus mitt i den finska skogen
