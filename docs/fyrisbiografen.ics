@@ -6,91 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Fyrisbiografen
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:d3c39f073d3a61ceb4ffa578b518dec2@fyrisbio-calendar
-SUMMARY:Sjung för mig Arja!
-DTSTAMP:20261123T163749Z
-DTSTART:20261123T163000Z
-DESCRIPTION:Välkommen på smygpremiär av Sjung för mig Arja! den 12 november
-	 kl. 16:00! Vi är glada och stolta över att gästas av ingen mindre än Arja
-	 Saijonmaa själv\, som samtalar med moderatorn Gro Hansen efter filmen. Sj
-	ung för mig Arja! är ett nära porträtt av den legendariska sångerskan och 
-	människorättskämpen Arja Saijonmaa. Hon berättar personligt om sin livslån
-	ga vänskap med den grekiske kompositören och frihetskämpen Mikis Theodorak
-	is\, och hur denna format hennes konstnärskap och politiska kamp. Med sång
-	en som vapen blev Arja en kompromisslös röst för fred och demokrati och i 
-	filmen får vi genom privata hemmavideor och unika arkivbilder följa hennes
-	 väg från barndomens Finland till de stora internationella scenerna. Sveri
-	gepremiär 13 november. Smygpremiären av Sjung för mig\, Arja! den 12 novem
-	ber 16:00 följs av ett samtal med Arja Saijonmaa. Moderator: Gro Hansen.\n
-	\nMedverkande: Arja Saijonmaa\, och Mikos Theodorakis. Originaltitel Land 
-	Produktionsår Premiär Längd Genre Distributör Språk Textning Laula minulle
-	 Arja! Finland\, Sverige 2026 13 nov 2026 95 min Dokumentär Lucky Dogs Fin
-	ska Svenska
-URL:https://fyrisbiografen.se/sjung-for-mig-arja
-LOCATION:Fyrisbiografen\, Salong 2
-DURATION:PT95M
-END:VEVENT
-BEGIN:VEVENT
-UID:f8992e3060653b4443571c05defe76d6@fyrisbio-calendar
-SUMMARY:Arkipelag
-DTSTAMP:20261123T163749Z
-DTSTART:20261123T164000Z
-DESCRIPTION:Laddat drama möter mörk humor när Alex Schulman regidebuterar m
-	ed Arkipelag\, där Gustaf Skarsgård\, Fares Fares och Linus Wahlgren spela
-	r tre pappor som följer med sina döttrar på en skolresa till helvetet. Str
-	andsatta med en stökig högstadieklass på en idyllisk skärgårdsö påminns de
-	 om egna tonårstrauman. Precis som ungdomarna tvingas de snart också inse 
-	hur svårt det är att dra gränsen mellan lek och farlig maktkamp\, och att 
-	skilja offer från förövare.\n\nMedverkande: Gustaf Skarsgård\, Fares Fares
-	\, och Linus Wahlgren. Land Produktionsår Premiär Längd Genre Distributör 
-	Språk Textning Sverige 2026 9 okt 2026 107 min Drama Scanbox Svenska Svens
-	ka
-URL:https://fyrisbiografen.se/arkipelag
-LOCATION:Fyrisbiografen\, Salong 1
-DURATION:PT107M
-END:VEVENT
-BEGIN:VEVENT
-UID:f397ac5478443c824e77041cc289deea@fyrisbio-calendar
-SUMMARY:En sorglig och vacker värld
-DTSTAMP:20261123T163749Z
-DTSTART:20261123T184000Z
-DESCRIPTION:Kort tid kvar\n\nNujum al'amal w al'alamNujum al'amal...🔍 Liban
-	on 2025 6 nov 2026 109 min Drama Folkets Bio Arabiska Svenska En episk kär
-	lekshistoria om Nino och Yasmina i ett Beirut märkt av tiden. Födda på sam
-	ma dag verkar Nino och Yasmina vara ämnade för varandra. Under tre decenni
-	er av passion\, hjärtesorg och hopp sätts deras starka band på prov. Men n
-	är världen runt dem riskerar att falla samman måste de bestämma om de våga
-	r bygga ett liv tillsammans i Libanon eller lämna det land de älskar. En s
-	aga där kärlek och humor blir den sista formen av motståndskraft.\n\nMedve
-	rkande: Mounia Akl\, Hasan Akil\, Julia Kassar\, Camille Salameh\, Tino Ka
-	ram\, och Nadyn Chalhoub. Originaltitel Land Produktionsår Premiär Längd G
-	enre Distributör Språk Textning Nujum al'amal w al'alamNujum al'amal...🔍 L
-	ibanon 2025 6 nov 2026 109 min Drama Folkets Bio Arabiska Svenska
-URL:https://fyrisbiografen.se/en-sorglig-och-vacker-varld
-LOCATION:Fyrisbiografen\, Salong 2
-DURATION:PT109M
-END:VEVENT
-BEGIN:VEVENT
-UID:5076ecc991ac9002960edff51a2cb897@fyrisbio-calendar
-SUMMARY:Wild Horse Nine
-DTSTAMP:20261123T163749Z
-DTSTART:20261123T190000Z
-DESCRIPTION:Dramakomedi skriven och regisserad av Martin McDonagh (The Bans
-	hees of Inisherin\, Three Billboards Outside Ebbing\, Missouri). Filmen ut
-	spelar sig under chilenska militärkuppen 1973\, och följer två CIA-agenter
-	 (spelade av Sam Rockwell och John Malkovich) på ett farligt uppdrag från 
-	Santiago till Påsköarna.\n\nMedverkande: Sam Rockwell\, John Malkovich\, P
-	arker Posey\, Steve Buscemi\, och Tom Waits. Land Produktionsår Premiär Lä
-	ngd Genre Distributör Språk Textning USA 2026 20 nov 2026 118 min Drama\, 
-	thriller\, komedi Walt Disney Engelska Svenska
-URL:https://fyrisbiografen.se/wild-horse-nine
-LOCATION:Fyrisbiografen\, Salong 1
-DURATION:PT118M
-END:VEVENT
-BEGIN:VEVENT
 UID:c3ee1e6de4d835ee8c13698ada5f62e5@fyrisbio-calendar
 SUMMARY:Sense and Sensibility
-DTSTAMP:20261123T163749Z
+DTSTAMP:20261124T033133Z
 DTSTART:20261124T140000Z
 DESCRIPTION:Från Focus Features och Working Title kommer en oemotståndlig n
 	y tolkning av Jane Austens ikoniska Sense and Sensibility. En charmig\, kv
@@ -107,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4b90c3fa3fd1998bcda2e5ea3a1ae2ef@fyrisbio-calendar
 SUMMARY:Resan till Piemonte
-DTSTAMP:20261123T163749Z
+DTSTAMP:20261124T033133Z
 DTSTART:20261124T141000Z
 DESCRIPTION:Sista visningen\n\nJonathan Ridings...🔍 Svenska Svenska Fyra vä
 	nner åker tillsammans till Italien där Eva (Helena Bergström) ärvt en oliv
@@ -128,7 +46,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8a09ff4348c9ce545bfa98599ff698f3@fyrisbio-calendar
 SUMMARY:Arne Goes to Space
-DTSTAMP:20261123T163749Z
+DTSTAMP:20261124T033133Z
 DTSTART:20261124T163000Z
 DESCRIPTION:Bröderna Arne (Lennart Jähkel) och Stefan (Rolf Lassgård) fylle
 	r dagarna i norrländska Brobyn med vedhuggning och jaktlagsgnabb. När en u
@@ -151,7 +69,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:955f87e4210f2c2991ae4f3f676c85a1@fyrisbio-calendar
 SUMMARY:A Talent for Murder
-DTSTAMP:20261123T163749Z
+DTSTAMP:20261124T033133Z
 DTSTART:20261124T164500Z
 DESCRIPTION:Den unge författaragenten Edward (Alden Ehrenreich) sänds till 
 	de schweiziska alperna av sitt förlag i New York. Uppdraget är att övertal
@@ -172,7 +90,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2f9918c019c9613f4da2ceb83cc9f761@fyrisbio-calendar
 SUMMARY:Fjord
-DTSTAMP:20261123T163749Z
+DTSTAMP:20261124T033134Z
 DTSTART:20261124T184500Z
 DESCRIPTION:Sista visningen\n\nRumänien\, Sverige\, NorgeRumänien\, Sverige
 	...🔍 2026 2 okt 2026 146 min Drama TriArt Andrea Berentsen Ottmar Norska S
@@ -199,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4e73695e41868af387825a37bc287d8e@fyrisbio-calendar
 SUMMARY:Arkipelag
-DTSTAMP:20261123T163749Z
+DTSTAMP:20261124T033134Z
 DTSTART:20261124T190000Z
 DESCRIPTION:Laddat drama möter mörk humor när Alex Schulman regidebuterar m
 	ed Arkipelag\, där Gustaf Skarsgård\, Fares Fares och Linus Wahlgren spela
@@ -218,7 +136,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:91db2a72a8294210ed05fa8aae044f8a@fyrisbio-calendar
 SUMMARY:Forastera
-DTSTAMP:20261123T163749Z
+DTSTAMP:20261124T033134Z
 DTSTART:20261125T120000Z
 DESCRIPTION:Under ett sommarlov på Mallorca förändras Catas tillvaro abrupt
 	 när hennes älskade mormor plötsligt dör. Medan familjen försöker hantera 
@@ -238,7 +156,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:95121e70d7bb7c056502591d35d04f60@fyrisbio-calendar
 SUMMARY:Smugglaren
-DTSTAMP:20261123T163749Z
+DTSTAMP:20261124T033134Z
 DTSTART:20261125T121000Z
 DESCRIPTION:Sista visningen\n\nSmugglaren\, ett absurt äventyr på jakt efte
 	r en försvunnen revolver\, berättar historien om en far som inte ville dö.
@@ -266,7 +184,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dc85e8641015f8cdb0098b177b9fca9b@fyrisbio-calendar
 SUMMARY:Wild Horse Nine
-DTSTAMP:20261123T163749Z
+DTSTAMP:20261124T033134Z
 DTSTART:20261125T140000Z
 DESCRIPTION:Dramakomedi skriven och regisserad av Martin McDonagh (The Bans
 	hees of Inisherin\, Three Billboards Outside Ebbing\, Missouri). Filmen ut
@@ -283,7 +201,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1d665712b336345e3eb823c0355349b3@fyrisbio-calendar
 SUMMARY:Kärlek över Tanger
-DTSTAMP:20261123T163749Z
+DTSTAMP:20261124T033134Z
 DTSTART:20261125T141000Z
 DESCRIPTION:Kort tid kvar\n\nEn sensuell och hjärtevärmande feelgood\, som 
 	slår fast att ålderdom är allt annat än att säga adjö till bångstyrighet\,
@@ -305,7 +223,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8c2106221e1303b0c48719541c87d878@fyrisbio-calendar
 SUMMARY:NAZA (Eng. sub)
-DTSTAMP:20261123T163749Z
+DTSTAMP:20261124T033134Z
 DTSTART:20261125T163000Z
 DESCRIPTION:Sista visningen\n\nThe Guardian...🔍 Hebreiska Engelska Shot at 
 	night on the rooftops of Tel Aviv\, the film reveals in detail the systems
@@ -345,7 +263,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:19be742813e3e026fb69c65032f8e38b@fyrisbio-calendar
 SUMMARY:Jävla karlar
-DTSTAMP:20261123T163749Z
+DTSTAMP:20261124T033134Z
 DTSTART:20261125T165000Z
 DESCRIPTION:Julen 1983. Efter ännu ett våldsamt gräl avslöjar sjuårige Andr
 	evs mamma en hemlighet för honom: hans pappa är faktiskt inte hans pappa. 
@@ -376,7 +294,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:affb902bbb4a0085d3dc041ee3d2c0d3@fyrisbio-calendar
 SUMMARY:You Can See Everything
-DTSTAMP:20261123T163749Z
+DTSTAMP:20261124T033134Z
 DTSTART:20261125T183000Z
 DESCRIPTION:Trettiofyra dagar innan hon ska in i fängelse bjuder den skanda
 	lomsusade Silicon Valley-grundaren Elizabeth Holmes in ett skeptiskt filmt
@@ -393,7 +311,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ab7342d81c3a152faa806e8b4f22767d@fyrisbio-calendar
 SUMMARY:Arne Goes to Space
-DTSTAMP:20261123T163749Z
+DTSTAMP:20261124T033134Z
 DTSTART:20261125T191000Z
 DESCRIPTION:Bröderna Arne (Lennart Jähkel) och Stefan (Rolf Lassgård) fylle
 	r dagarna i norrländska Brobyn med vedhuggning och jaktlagsgnabb. När en u
@@ -416,7 +334,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8dccc6dff081b19ce179683abd776aef@fyrisbio-calendar
 SUMMARY:Jävla karlar
-DTSTAMP:20261123T163749Z
+DTSTAMP:20261124T033134Z
 DTSTART:20261126T115000Z
 DESCRIPTION:Julen 1983. Efter ännu ett våldsamt gräl avslöjar sjuårige Andr
 	evs mamma en hemlighet för honom: hans pappa är faktiskt inte hans pappa. 
@@ -447,7 +365,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:29331e9c61585543c8804c62b10dc9c3@fyrisbio-calendar
 SUMMARY:A Talent for Murder
-DTSTAMP:20261123T163749Z
+DTSTAMP:20261124T033134Z
 DTSTART:20261126T121000Z
 DESCRIPTION:Den unge författaragenten Edward (Alden Ehrenreich) sänds till 
 	de schweiziska alperna av sitt förlag i New York. Uppdraget är att övertal
@@ -468,7 +386,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:428b3f89d5aa542d11ad7b908cbaa44d@fyrisbio-calendar
 SUMMARY:Arne Goes to Space
-DTSTAMP:20261123T163749Z
+DTSTAMP:20261124T033134Z
 DTSTART:20261126T141000Z
 DESCRIPTION:Bröderna Arne (Lennart Jähkel) och Stefan (Rolf Lassgård) fylle
 	r dagarna i norrländska Brobyn med vedhuggning och jaktlagsgnabb. När en u
@@ -491,7 +409,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e253211190573971eb7304d2a0cde056@fyrisbio-calendar
 SUMMARY:Sjung för mig Arja!
-DTSTAMP:20261123T163749Z
+DTSTAMP:20261124T033134Z
 DTSTART:20261126T143000Z
 DESCRIPTION:Välkommen på smygpremiär av Sjung för mig Arja! den 12 november
 	 kl. 16:00! Vi är glada och stolta över att gästas av ingen mindre än Arja
@@ -516,7 +434,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:668a53f1522ccdfd991deb88821af168@fyrisbio-calendar
 SUMMARY:Sense and Sensibility
-DTSTAMP:20261123T163749Z
+DTSTAMP:20261124T033134Z
 DTSTART:20261126T163000Z
 DESCRIPTION:Från Focus Features och Working Title kommer en oemotståndlig n
 	y tolkning av Jane Austens ikoniska Sense and Sensibility. En charmig\, kv
@@ -533,7 +451,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:994282c78b383b74bd94206e03c5c0b9@fyrisbio-calendar
 SUMMARY:Forastera
-DTSTAMP:20261123T163749Z
+DTSTAMP:20261124T033134Z
 DTSTART:20261126T164000Z
 DESCRIPTION:Under ett sommarlov på Mallorca förändras Catas tillvaro abrupt
 	 när hennes älskade mormor plötsligt dör. Medan familjen försöker hantera 
@@ -553,7 +471,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:83eb0ed5d05d91b254d3b596669bfee9@fyrisbio-calendar
 SUMMARY:De Gaulle: Frihetens röst
-DTSTAMP:20261123T163749Z
+DTSTAMP:20261124T033134Z
 DTSTART:20261126T184500Z
 DESCRIPTION:La Bataille De Gaulle : J'écris ton nomLa Bataille De...🔍 Frank
 	rike 2026 30 okt 2026 157 min Historiskt drama Franska Svenska Vi följer g
@@ -579,7 +497,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a71ef0bc245de28787ebbeac29b9d2ae@fyrisbio-calendar
 SUMMARY:Wild Horse Nine
-DTSTAMP:20261123T163749Z
+DTSTAMP:20261124T033134Z
 DTSTART:20261126T191500Z
 DESCRIPTION:Dramakomedi skriven och regisserad av Martin McDonagh (The Bans
 	hees of Inisherin\, Three Billboards Outside Ebbing\, Missouri). Filmen ut
@@ -592,5 +510,305 @@ DESCRIPTION:Dramakomedi skriven och regisserad av Martin McDonagh (The Bans
 URL:https://fyrisbiografen.se/wild-horse-nine
 LOCATION:Fyrisbiografen\, Salong 1
 DURATION:PT118M
+END:VEVENT
+BEGIN:VEVENT
+UID:d458decdb6c8c32b4773e458cb875cf4@fyrisbio-calendar
+SUMMARY:Det finns inga bra karlar
+DTSTAMP:20261124T033134Z
+DTSTART:20261127T163000Z
+DESCRIPTION:Premiär\n\nNaru är en 30 år gammal kamerakvinna i Kabul strax f
+	öre talibanernas offensiv 2021. Hon lever separerad från sin otrogne make 
+	men vågar inte ansöka om skilsmässa av rädsla för att förlora vårdnaden om
+	 sin unge son. När hon lyckas göra ett uppmärksammat reportage genom att i
+	ntervjua afghanska kvinnor som vägrar tala med manliga journalister får ho
+	n en ny tjänst på nyhetsredaktionen. Där börjar hon arbeta tillsammans med
+	 Qodrat\, en 50 år gammal gift reporter. I takt med att deras samarbete fö
+	rdjupas växer en nära relation fram\, och Naru tvingas ompröva sin övertyg
+	else om att det inte längre finns några bra karlar kvar i hennes värld. De
+	t finns inga bra karlar (No Good Men) var öppningsfilm på Berlin Filmfesti
+	val 2026\, och tävlar om FIPRESCI-priset vid Stockholms filmfestival i nov
+	ember.\n\nMedverkande: Katja Adomeit\, Marina Marhuenda\, och Xavier Roche
+	r. Originaltitel Land Produktionsår Premiär Längd Genre Distributör Språk 
+	Textning Kabul Jan Afghanistan 2026 27 nov 2026 103 min Drama Edge Dari Sv
+	enska
+URL:https://fyrisbiografen.se/det-finns-inga-bra-karlar
+LOCATION:Fyrisbiografen\, Salong 2
+DURATION:PT103M
+END:VEVENT
+BEGIN:VEVENT
+UID:37d805c428ba449c2970b425b39073e5@fyrisbio-calendar
+SUMMARY:Chopin - en sonat i Paris
+DTSTAMP:20261124T033134Z
+DTSTART:20261127T164500Z
+DESCRIPTION:Premiär\n\nPolen\, Frankrike\, SpanienPolen\, Frankrike...🔍 202
+	5 27 nov 2026 113 min Drama Från 11 år Maywin Media Franska Svenska Paris\
+	, 1835. Fryderyk Chopin är 25 år och Europas mest omtalade pianist och ton
+	sättare. Tillsammans med bästa vännen Franz Liszt erövrar han de parisiska
+	 salongerna\, uppträder inför kungligheter och blir sin tids stora musikid
+	ol. Men medan berömmelsen växer får Chopin veta att han lider av tuberkulo
+	s. När han inser att hans dagar är räknade väljer han inte att dra sig und
+	an\, utan att älska\, festa\, komponera nya mästerverk och leva intensivar
+	e än någonsin. Ett storslaget kostymdrama om geniet bakom några av musikhi
+	storiens mest älskade verk. Originaltitel Land Produktionsår Premiär Längd
+	 Genre Åldersgräns Distributör Språk Textning Chopin\, Chopin! Polen\, Fra
+	nkrike\, SpanienPolen\, Frankrike...🔍 2025 27 nov 2026 113 min Drama Från 
+	11 år Maywin Media Franska Svenska
+URL:https://fyrisbiografen.se/chopin-en-sonat-i-paris
+LOCATION:Fyrisbiografen\, Salong 1
+DURATION:PT113M
+END:VEVENT
+BEGIN:VEVENT
+UID:03214f3ec0ebe574bdb68599f3383790@fyrisbio-calendar
+SUMMARY:Woman and Child
+DTSTAMP:20261124T033134Z
+DTSTART:20261127T184500Z
+DESCRIPTION:Premiär\n\nEva Dottelonde...🔍 Persiska Svenska Mahnaz\, en 40-å
+	rig sjuksköterska och änka\, balanserar vardagslivets utmaningar tillsamma
+	ns med sina två barn. Hon förbereder sig för äktenskap med Hamid\, en char
+	mig men manipulativ ambulansförare som kräver att hennes barn döljs för ha
+	ns konservativa familj. När sonen Aliyar blir avstängd från skolan och en 
+	tragisk olycka inträffar\, omvandlas Mahnaz sorg till ett rasande sökande 
+	efter rättvisa. Hon konfronterar systemfel och patriarkala strukturer som 
+	sålt henne som en vara i äktenskapsmarknaden\, vilket leder henne till en 
+	våldsam kamp där hon vägrar att tystna.\n\nMedverkande: Parinaz Izadyar\, 
+	Payman Maadi\, Soha Niasti\, Sinan Mohebi\, Hassan Pourshirazi\, och Feres
+	hteh Sadre Orafaiy. Land Produktionsår Premiär Längd Genre Distributör Pro
+	ducent Språk Textning Iran 2025 27 nov 2026 131 min Drama TriArt Eva Dotte
+	londe...🔍 Persiska Svenska
+URL:https://fyrisbiografen.se/woman-and-child
+LOCATION:Fyrisbiografen\, Salong 2
+DURATION:PT131M
+END:VEVENT
+BEGIN:VEVENT
+UID:2cc8c64425674342d18a6761816c853a@fyrisbio-calendar
+SUMMARY:Paper Tiger
+DTSTAMP:20261124T033134Z
+DTSTART:20261127T191000Z
+DESCRIPTION:Premiär\n\nI 1980-talets New York försöker ingenjören Irwin och
+	 hans fru Hester (Miles Teller och Scarlett Johansson) klara vardagen med 
+	tonårssönerna Scott och Ben trots skral ekonomi. När Irwins bror\, den för
+	e detta polisen Gary (Adam Driver)\, en kväll kommer på besök presenterar 
+	han en plan för att få fram snabba pengar. Gary behöver Irwins expertis fö
+	r att starta ett företag som ska hantera logistiken kring en välbehövlig k
+	analrensning i stan. Att man måste hantera en grupp ryska affärsmän känns 
+	inte som något problem\, tills bröderna plötsligt är involverade med den r
+	yska maffian och svävar i livsfara. James Gray har skrivit och regisserat 
+	den hyllade thrillern Paper Tiger\, som visades inom tävlan på filmfestiva
+	len i Cannes.\n\nMedverkande: Adam Driver\, Miles Teller\, och Scarlett Jo
+	hansson. Land Produktionsår Premiär Längd Genre Distributör Språk Textning
+	 USA\, Italien\, Brasilien 2025 27 nov 2026 115 min Thriller Scanbox Engel
+	ska Svenska
+URL:https://fyrisbiografen.se/paper-tiger
+LOCATION:Fyrisbiografen\, Salong 1
+DURATION:PT115M
+END:VEVENT
+BEGIN:VEVENT
+UID:4d426f4fe1bdc8cd5466748d33e9e77a@fyrisbio-calendar
+SUMMARY:You Can See Everything
+DTSTAMP:20261124T033134Z
+DTSTART:20261128T184500Z
+DESCRIPTION:Trettiofyra dagar innan hon ska in i fängelse bjuder den skanda
+	lomsusade Silicon Valley-grundaren Elizabeth Holmes in ett skeptiskt filmt
+	eam för att dokumentera varje steg hon tar. Det som börjar som ett intimt 
+	porträtt av en gåtfull dömd bedragare blir en omtumlande treårig färd ner 
+	i avgrunden. De gränstänjande regissörerna Nathan Fielder och Lance Oppenh
+	eim har gjort en av årets mest omtalade filmer\, YOU CAN SEE EVERYTHING. -
+	-- Fler visningar tillkommer! --- Land Produktionsår Premiär Längd Genre S
+	pråk Textning USA 2026 21 nov 2026 174 min Dokumentär Engelska Svenska
+URL:https://fyrisbiografen.se/you-can-see-everything-
+LOCATION:Fyrisbiografen\, Salong 1
+DURATION:PT174M
+END:VEVENT
+BEGIN:VEVENT
+UID:2a3dd00a4e4e13f635556c637731b96d@fyrisbio-calendar
+SUMMARY:En vackrare värld
+DTSTAMP:20261124T033134Z
+DTSTART:20261129T130000Z
+DESCRIPTION:Teaterkonsert med filmsmakprov!\n\nEn brinnande och humoristisk
+	 nyskriven teaterkonsert med Astrid Lindgren som ledstjärna\, framförd av 
+	den svensk-holländska duon De Andersons – Anna Ågren och Roel Dullaart. Un
+	der denna matiné möter vi också den hyllade dokumentärfilmaren Vera Berggr
+	en Wiklund och får ta del av en exklusiv work in progress-visning av henne
+	s pågående film. De Andersons uppträder på Fyrisbiografen med den publikro
+	sade teaterkonserten "En vackrare värld" – en varm\, humoristisk och tänkv
+	ärd föreställning inspirerad av Astrid Lindgrens syn på mod\, fantasi och 
+	medmänsklighet. Med nyskrivna sånger\, berättelser och en gnutta upprorisk
+	 humor skapas en föreställning som berör\, väcker eftertanke och inger hop
+	p. Kritiker har beskrivit De Andersons scenkonst som "sällsynt vacker" och
+	 "inspirerande i en värld där skönhet står på spel”. Föreställningen gästa
+	s av den hyllade dokumentärfilmaren Vera Berggren Wiklund. Bara 26 år gamm
+	al har hon redan gjort flera prisade filmer\, bland annat Hotpants\, som t
+	illdelades Stone City Award 2024 för bästa norrländska kortfilm. I sitt på
+	gående dokumentärprojekt porträtterar hon Meeri Bodelid\, en orädd pionjär
+	 och multiidrottare i 80-årsåldern. När kvinnor 1981 fick ställa upp i det
+	 ordinarie Vasaloppet tog Meeri chansen. Hon blev snabbast av kvinnorna i 
+	mål – och utmanade föreställningar om vad kvinnor kunde och fick göra i en
+	 mansdominerad idrottsvärld. Under föreställningen får vi ta del av ett sm
+	akprov ur Veras pågående dokumentärfilm om Meeri – en exklusiv work in pro
+	gress-visning på Fyrisbiografen. En berättelse om mod och att gå sin egen 
+	väg – helt i Astrid Lindgrens anda! Välkomna till en teaterkonsert som smy
+	ger sig in under huden. Som en liten revolutionssång för en vackrare värld
+	. Ett axplock av publikröster: "Tack för er vackra och innerliga hyllning 
+	till Astrid\, till livet\, till skönheten\, modet och kraften." "Fantastis
+	k show! Ni berör så viktiga och fina ämnen med sådan finess!" "Otroligt va
+	ckra låtar!" "Tack för en varm och hoppfull föreställning i denna förvirra
+	nde tid!" "Så bra att ni påminde oss om Astrid Lindgren!” "Vilken tänkvärd
+	 föreställning” Läs mer om De Andersons och föreställningen på: www.deande
+	rsons.com • Rekommenderad ålder: Från 14 år Arrangör: De Andersons i samar
+	bete med Fyrisbiografen\, med stöd av Kulturnämnden i Uppsala kommun och R
+	egion Uppsala. Biljettpris: Ordinarie 220 kr Rabatt 190 kr (pensionär/sjuk
+	pensionär\, student\, barn/ungdom under 20 år\, arbetssökande)\n\nMedverka
+	nde: De Andersons & Vera Berggren Wiklund. Land Produktionsår Genre Rek. å
+	lder Språk Sverige 2026 Teaterkonsert Från 14 år Svenska
+URL:https://fyrisbiografen.se/en-vackrare-varld
+LOCATION:Fyrisbiografen\, Salong 1
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:331a054d3847ddb4b234803be97943f2@fyrisbio-calendar
+SUMMARY:The Christophers
+DTSTAMP:20261124T033134Z
+DTSTART:20261204T164500Z
+DESCRIPTION:Premiär\n\nLaurie tar jobb som assistent till den världsberömda
+	 konstnären Julian Sklar\, som var en stjärna inom Londons popkonst på 60-
+	 och 70-talet. Vad Julian inte vet är att Laurie är ditskickad av hans två
+	 vuxna barn för att färdigställa hans gamla ofullbordade målningar. Ian Mc
+	Kellen gör en oförglömlig roll som excentrisk konstnär i Steven Soderbergh
+	s mörkt komiska men varma kritikerfavorit.\n\nMedverkande: Michaela Coel\,
+	 och Ian McKellen. Land Produktionsår Premiär Längd Genre Distributör Språ
+	k Textning Storbritannien 2025 4 dec 2026 100 min Dramakomedi NonStop Enge
+	lska Svenska
+URL:https://fyrisbiografen.se/the-christophers
+LOCATION:Fyrisbiografen\, Salong 1
+DURATION:PT100M
+END:VEVENT
+BEGIN:VEVENT
+UID:0a63898a805cdf66624721fa77387aa6@fyrisbio-calendar
+SUMMARY:Fanny och Alexander
+DTSTAMP:20261124T033134Z
+DTSTART:20261206T131500Z
+DESCRIPTION:Klassiker / English subtitles\n\nVarmt välkommen att ladda upp 
+	inför julen med julfilmernas julfilm – Ingmar Bergmans älskade och odödlig
+	a mästerverk Fanny och Alexander! Filmen visas med engelsk text. Fanny och
+	 Alexander utspelar sig i Uppsala tidigt 1900-tal och kretsar kring den fö
+	rmögna familjen Ekdahl som domineras av en rik och begåvad änka\, Helena (
+	Gunn Wållgren)\, samt hennes tre söner. När äldste sonen Oscar (Allan Edwa
+	ll) plötsligt dör i ett slaganfall gifter Emelie (Ewa Fröling) om sig med 
+	Jan Malmsjös aktade biskop Edvard Vergérus. Med borgerliga festligheter i 
+	backspegeln väntar ett nytt\, strängt liv – inte minst för syskonparet Fan
+	ny och Alexander. Från att ha levt öppet och fritt i en glad storfamilj rå
+	der i biskopens hus kärvhet och minutiösa regler. Kritikern (och Bergmans 
+	regiassistent) Jurgen Schildt beskrev filmen som en ”sataniskt välbakad ju
+	ltårta”. Fanny och Alexander kom att bli Bergmans mest folkkära film. --- 
+	Welcome the holiday season with the Christmas film of all Christmas films 
+	– Ingmar Bergman’s beloved and timeless masterpiece\, Fanny and Alexander!
+	 English subtitles! Set in early 20th-century Uppsala\, Fanny and Alexande
+	r revolves around the wealthy Ekdahl family\, dominated by the affluent an
+	d talented widow Helena (Gunn Wållgren) and her three sons. When the eldes
+	t son\, Oscar (Allan Edwall)\, suddenly dies of a stroke\, Emelie (Ewa Frö
+	ling) remarries the esteemed bishop Edvard Vergérus (Jan Malmsjö). With th
+	e era of bourgeois festivities now behind them\, a new\, austere life awai
+	ts – especially for the siblings Fanny and Alexander. From the open\, care
+	free life of a joyful extended family\, they find themselves in the bishop
+	's house\, bound by harshness and rigid rules.\n\nMedverkande: Gunn Wållgr
+	en\, Allan Edwall\, Jarl Kulle\, Bertil Guve\, Pernilla Allwin\, Ewa Fröli
+	ng\, Jan Malmsjö\, Harriet Andersson\, Börje Ahlstedt\, Mona Malm\, Pernil
+	la August\, Christina Schollin\, Erland Josephson\, och Stina Ekblad . Lan
+	d Produktionsår Premiär Längd Genre Åldersgräns Språk Textning Sverige 198
+	2 1 jan 1982 188 min Drama Från 11 år Svenska Engelska
+URL:https://fyrisbiografen.se/fanny-och-alexander
+LOCATION:Fyrisbiografen\, Salong 1
+DURATION:PT188M
+END:VEVENT
+BEGIN:VEVENT
+UID:8a0f5919febe2e053435ff347eb898cc@fyrisbio-calendar
+SUMMARY:Nightborn
+DTSTAMP:20261124T033134Z
+DTSTART:20261208T164500Z
+DESCRIPTION:Ny finsk film\n\nSaga (Seidi Haarla) och Jon (Rupert Grint) har
+	 länge drömt om barn. När de flyttar till ett hus mitt i den finska skogen
+	\, där Saga tillbringade sina somrar som barn\, får de snart en frisk son.
+	 Men gradvis börjar Saga fyllas av en skrämmande känsla av att det är någo
+	t märkligt med det krävande barnet. Allt medan deras äktenskap börjar knak
+	a i fogarna kämpar Jon med att stötta sin fru\, men det är bara Saga som a
+	nar den fruktansvärda sanningen om deras nyfödda barn. Nightborn är en psy
+	kologisk thriller som på ett helt nytt sätt utforskar ofta tabubelagda kän
+	slor kopplade till föräldraskap och parrelationer. Filmen tävlade på den i
+	nternationella filmfestivalen i Berlin\, Berlinale\, 2026. Manusförfattare
+	n och regissören Hanna Bergholm och manusförfattaren Ilja Rautsi har tidig
+	are jobbat tillsammans med filmen Ruva (2022). --- Yön lapsi on Hanna Berg
+	holmin ja Ilja Rautsin yhdessä käsikirjoittama psykologinen trilleri\, jok
+	a pureutuu vanhemmuuteen ja parisuhteeseen liittyviin tunteisiin ennennäke
+	mättömällä tavalla. Lapsista haaveilevat Saga (Seidi Haarla) ja Jon (Ruper
+	t Grint) muuttavat suomalaisen metsän keskelle taloon\, jossa Saga on viet
+	tänyt lapsuuden kesät. Pian he saavat terveen pojan\, mutta pikkuhiljaa Sa
+	gan valtaa pelottava tunne\, että vaativassa vauvassa on jotain outoa. Sam
+	alla kun heidän avioliittonsa alkaa rakoilla\, Jon yrittää tukea vaimoaan\
+	, mutta vain Saga aavistaa kauhean totuuden heidän vastasyntyneestä lapses
+	taan. Käsikirjoittaja ja ohjaaja Hanna Bergholm sekä käsikirjoittaja Ilja 
+	Rautsi ovat aiemmin työskennelleet yhdessä elokuvassa Pahanhautoja (2022).
+	\n\nMedverkande: Seidi Haarla\, Rupert Grint\, Pamela Tola\, Pirkko Saisio
+	\, Rebecca Lacey\, och John Thomson. Originaltitel Land Produktionsår Prem
+	iär Längd Genre Distributör Producent Språk Textning Yön lapsi Finland 202
+	6 27 nov 2026 92 min Skräckdrama\, thriller Finlandsinstitutet Daniel Kuit
+	unen Engelska Svenska
+URL:https://fyrisbiografen.se/nightborn
+LOCATION:Fyrisbiografen\, Salong 1
+DURATION:PT92M
+END:VEVENT
+BEGIN:VEVENT
+UID:5e9d871da32ff4d553fe6af6f3a99221@fyrisbio-calendar
+SUMMARY:How to Divorce During the War
+DTSTAMP:20261124T033134Z
+DTSTART:20261218T164000Z
+DESCRIPTION:Premiär\n\nMarija och Vytas lever ett bekvämt medelklassliv i V
+	ilnius tillsammans med sin 13-åriga dotter. Vytas är en välkänd filmskapar
+	e som befinner sig i en konstnärlig kris. Det var länge sedan han gjorde e
+	n ny film\, och medan han sköter hemmet försöker han\, utan större framgån
+	g\, skriva ett nytt manus. Marija är däremot en framgångsrik mellanchef på
+	 ett internationellt medieföretag och tjänar tillräckligt för att försörja
+	 hela familjen. Men en kväll får Marija nog. Hon berättar för Vytas att ho
+	n vill skiljas\, och han gör sig redo att flytta ut. Nästa morgon\, precis
+	 innan han ska lämna familjens hem\, nås de av en chockerande nyhet: Ryssl
+	and har inlett sin fullskaliga invasion av Ukraina. Plötsligt måste Marija
+	 och Vytas inte bara försöka bygga om sina egna liv\, utan också navigera 
+	i en värld som genomgår dramatiska förändringar. Samtidigt försöker de båd
+	a handla utifrån sina starka moraliska övertygelser - något som leder till
+	 nya komplikationer\, oväntade konflikter och situationer där det privata 
+	och det politiska blir allt svårare att hålla isär. Dramakomedin How to Di
+	vorce During the War vann pris för bästa regi på Sundance filmfestival\, o
+	ch är Litauens Oscarbidrag. Dessutom har den 100% positiva recensioner på 
+	Rotten Tomatoes!\n\nMedverkande: Marius Repšys\, Žygimantė Elena Jakštaitė
+	\, Amelija Adomaityte\, Gintarė Parulytė\, Tomas Seckus\, Alla Bineeva\, V
+	alentinas Krulikovskis\, Ramunas Cicenas\, Rimantas Bagdzevicius\, Indrė P
+	atkauskaitė\, och Larisa Kalpokaite. Originaltitel Land Produktionsår Prem
+	iär Längd Genre Distributör Språk Textning Skyrybos karo metu Litauen 2026
+	 18 dec 2026 108 min Dramakomedi Maywin Media Litauiska Svenska
+URL:https://fyrisbiografen.se/how-to-divorce-during-the-war
+LOCATION:Fyrisbiografen\, Salong 2
+DURATION:PT108M
+END:VEVENT
+BEGIN:VEVENT
+UID:af10907f35a375502d9db60acc584340@fyrisbio-calendar
+SUMMARY:Den älskade
+DTSTAMP:20261124T033134Z
+DTSTART:20261218T185000Z
+DESCRIPTION:Premiär\n\nNacho Lavilla...🔍 Spanska Svenska Den hyllade regiss
+	ören Rodrigo Sorogoyen återvänder med ett intensivt och känsloladdat famil
+	jedrama med Oscarbelönade Javier Bardem i huvudrollen! Den legendariske fi
+	lmregissören Esteban Martínez är lika omtalad för sina filmer som för ett 
+	förflutet präglat av våld och utsvävningar. När han erbjuder sin dotter Em
+	ilia en roll i sin nya film\, under förevändningen att hjälpa hennes stagn
+	erade skådespelarkarriär\, tvingas de åter närma sig varandra efter många 
+	år utan kontakt. Men att leva så nära varandra under inspelningen väcker i
+	nte bara gamla känslor till liv – det river också upp sår som aldrig rikti
+	gt har läkt.\n\nMedverkande: Javier Bardem\, Victoria Luengo\, Raúl Aréval
+	o\, Marina Foïs\, Mourad Ouani\, Raúl Prieto\, Melina Matthews\, och Laura
+	 Birn. Originaltitel Land Produktionsår Premiär Längd Genre Distributör Pr
+	oducent Språk Textning El ser querido Spanien 2026 18 dec 2026 135 min Dra
+	ma TriArt Nacho Lavilla...🔍 Spanska Svenska
+URL:https://fyrisbiografen.se/den-alskade
+LOCATION:Fyrisbiografen\, Salong 1
+DURATION:PT135M
 END:VEVENT
 END:VCALENDAR
